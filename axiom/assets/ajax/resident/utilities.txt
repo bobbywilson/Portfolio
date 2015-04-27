@@ -1,0 +1,98 @@
+<h3>Indiana Gas Utilities</h3></br>
+<p class="text-justify" class="text-muted">Websites for Indiana natural gas utilities are available from the following links. For information on rates and key cases by utility, please visit our <a href="http://www.in.gov/oucc/2620.htm" id="utilities" target="_blank">Natural Gas Cases of Note</a> page.</p>
+
+<ul>
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2620.htm" target="_blank" id="utilities">Citizens Gas</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.indiananatural.com/" target="_blank" id="utilities">Indiana Natural Gas Corporation</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.midnatgas.com/" target="_blank" id="utilities">Midwest Natural Gas Corporation</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.nipsco.nisource.com/" target="_blank" id="utilities">Northern Indiana Public Service Company (NIPSCO)</a></br>
+<span class="text-muted"><a href="http://www.nipsco.com/Our-Services/NIPSCO-Choice/Choice-Suppliers.aspx" target="_blank" id="utilities">(Click here for a list of NIPSCO Choice suppliers.)</a></span></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.ovgc.com/" target="_blank" id="utilities">Ohio Valley Gas Corporation</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.sycamoregas.com/" target="_blank" id="utilities">Sycamore Gas Company (formerly Lawrenceburg Gas Company)</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.vectren.com/" target="_blank" id="utilities">Vectren</a></br>
+<span class="text-muted">(formerly Indiana Gas Company & Southern Indiana Gas and Electric Company)</span></li>
+</ul>
+
+</br>
+<p class="text-justify" class="text-muted">This is not a complete listing of natural gas companies, but a list of companies operating in Indiana whose Websites are known by the OUCC. If you know of an Indiana utility Website that should be listed here, please <a href="http://www.in.gov/oucc/2361.htm" id="utilities" target="_blank">contact us</a>.</p>
+
+ 
+
+<h3>You may also be interested in...</h3></br>
+<ul>
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2397.htm" target="_blank" id="utilities">Reduce Your Winter Energy Bills</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2387.htm" target="_blank" id="utilities">Understanding Natural Gas Prices</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2388.htm" target="_blank" id="utilities">Gas Cost Adjustments</a></li>
+</ul>
+
+
+</br>
+
+<p class="text-justify" class="text-muted"><b>Source:</b> <a href="http://www.in.gov/oucc/2489.htm" id="utilities">Indiana Office of Utility Consumer Counselor</a></p>
+
+</br></br><hr></br>
+
+
+<h3>Indiana Water & Sewer Utilities</h3></br>
+<p class="text-justify" class="text-muted">Websites for Indiana water and sewer utilities are available from the following links. For information on rates and key cases by utility, please visit our <a href="http://www.in.gov/oucc/2494.htm" target="_blank" id="utilites">Water and Cases of Note </a>page.</p>
+
+<ul>
+<li class="text-justify" class="text-muted"><a href="http://www.asuutilities.com/ target="_blank" id="utilities">American Suburban Utilities</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.aquaamerica.com/ target="_blank" id="utilities">Aqua America</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.browncountywater.com/ target="_blank" id="utilities">Brown County Water Utility</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.citizenswater.com/ target="_blank" id="utilities">Citizens Water</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://edwardsvillewater.com/ target="_blank" id="utilities">Edwardsville Water Corp.</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.gemutility.com/ target="_blank" id="utilities">Gem Utilities</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://hseutilities.com/ target="_blank" id="utilities">Hamilton Southeastern Utilities</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.indiana-american.com/ target="_blank" id="utilities">Indiana American Water Company</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.mapleturn.org/ target="_blank" id="utilities">Mapleturn Utilities, Inc.</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.silvercreekwater.org/ target="_blank" id="utilities">Silver Creek Water Corp.</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.uiwater.com/about_us/cs_area.php?state=IN target="_blank" id="utilities">Utilities, Inc.</a></li>
+</ul>
+
+</br>
+<p class="text-justify" class="text-muted">This is not a complete listing of water & sewer companies, but a list of non-municipal utilities operating in Indiana whose Websites are known by the OUCC. If you know of an Indiana utility Website that should be listed here, please <a href="http://www.in.gov/oucc/2361.htm" id="utilities" target="_blank">contact us</a>.</p>
+
+ 
+
+<h3>You may also be interested in...</h3></br>
+<ul>
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2394.htm" target="_blank" id="utilities">Reduce Your Water Bill</a></li>
+
+<li class="text-justify" class="text-muted"><a href="http://www.in.gov/oucc/2420.htm" target="_blank" id="utilities">Understanding Sewer Rates</a></li>
+
+<li class="text-justify" class="text-muted">Utilities Outside IURC Jurisdiction: <a href="http://www.in.gov/oucc/2634.htm" target="_blank" id="utilities">Frequently Asked Questions</a></li>
+</ul>
+
+</br>
+
+<p class="text-justify" class="text-muted"><b>Source:</b> <a href="http://www.in.gov/oucc/2525.htm" id="utilities">Indiana Office of Utility Consumer Counselor<a/></p>
+
+
+
+
+
+
+
+
+
+
+

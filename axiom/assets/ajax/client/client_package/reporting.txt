@@ -1,0 +1,6 @@
+<h2>Monthly Financial Reporting</h2></br>
+			
+			<p class="text-info">Property managers provide monthly statements for your rental income and expenses.</p>
+			
+			<p class="text-justify" class="text-muted">We can handle all your accounting and payment requirements.  Income checks and property statements are processed by the 15th of the month.  Proceeds are either mailed or directly deposited electronically each month.  A complete statement of your property account and an income statement are provided each month.  Account history is stored on-line for three years.  We can quickly search your records on request.  At the end of the year, we prepare a complete package for your tax preparer.  Periodically, we send information on the status of your home and the real estate market. </p>
+			

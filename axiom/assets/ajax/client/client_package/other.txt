@@ -1,0 +1,23 @@
+			<h2>Other Services</h2></br>
+			
+			<div class="row">
+  				<div class="col-md-3" id="row-left">
+    				<p class="text-justify" class="text-muted">
+						<span class="glyphicon glyphicon-check"></span> Licensed, Bonded & Insured</br>
+						<span class="glyphicon glyphicon-check"></span> In House Maintenance</br>
+						<span class="glyphicon glyphicon-check"></span> Property management Staff</br>
+					</p>
+  				</div>
+  				
+  
+  				<div class="col-md-3" id="row-right"> 
+    				<p class="text-justify" class="text-muted">
+    					<span class="glyphicon glyphicon-check"></span> Other support staff</br>
+						<span class="glyphicon glyphicon-check"></span> Latest Technology</br>
+						<span class="glyphicon glyphicon-check"></span> Monthly Operating Statements</br>
+						</b>
+					</p>
+					
+  				</div>
+  
+			</div>

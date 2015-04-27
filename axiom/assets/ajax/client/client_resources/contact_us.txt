@@ -1,0 +1,12 @@
+<h2>Contact Us</h2></br>
+			
+		<p class="text-justify" class="text-muted">For information regarding our Property Management Services or one of the many Rental Properties that Axiom Property Management currently manages, you can contact us at <span class='glyphicon glyphicon-phone'></span> (317) 259-0200 or send us a email to <span class='glyphicon glyphicon-envelope'></span> <a href='mailto:info@axiommgt.com?Subject=Axiom%20Property%20Management'>info@axiommgt.com</a>.</br></br>
+
+If you are a resident or an owner and would like to submit a Service Request you can reach us at <span class='glyphicon glyphicon-envelope'></span> <a href='mailto:maintenance@axiommngt.com?Subject=Axiom%20Maintenance%20Emergency'>maintenance@axiommngt.com</a>. </br></br>
+
+		If you are a resident experiencing an after hours Maintenance Emergency please call <span class='glyphicon glyphicon-phone'></span> (317) 259-0200 x 7. </p></br>
+
+	<hr></br>
+
+		<p class="text-justify" class="text-muted">For additional ways to contact us, or send us a comment or question, please click <a href="http://www.bobbywwilson.com/axiom/contact/index.php" id="utilities"> contact us.</a></p></p>
+		

@@ -1,0 +1,66 @@
+
+<h2>Maximizing Profit and Limiting Liability in Real Estate Investing</h2></br>
+
+<h5>by Attorney, Bill Bronchick</h5></br>
+			
+			
+		<p class="text-justify" class="text-muted">How should I buy and sell real estate?  What entity gives the best tax benefits?  How can I limit my liability?  These are common questions posed by both beginning and experienced real estate investors.  The following are answers to common questions about maximizing profit and limiting liability in real estate investing.</br></br>
+
+		How should I take title?  The first and biggest mistake you can make as an investor is taking title in your own name. All deeds are public record and free for prying eyes to see.  Having property in your own name makes an easy target for tenants, creditors and attorneys.  If a liability is created on your property, the owner (you) are liable.  Make sure than you have a buffer zone between you and your properties.  Keep your ownership private.  The simplest, yet most effective device for taking title is the land trust (a.k.a. “Illinois Land Trust”).  The land trust is form of revocable, living trust used to take title to real estate.  The trust, rather than you, can assume liability for loans.  Using a different trust for each property (e.g., “The 2537 Clarkson Street Trust”) allow you to own, manage and transfer property with anonymity.</br></br>
+
+
+		Keeping a low profile is very important for investors who don't want the world to see their business.  Land trust agreements are not recorded in any public register so the beneficiaries of the trust are not easily discoverable.  The beneficiaries of a land trust can be you, a corporation or some other entity (see below).  The trust itself is not considered a separate taxable entity from the beneficiaries (see I.R.C. Sec 671-678).  Thus, there are no tax consequences of transferring a property into or out of a land trust.</br></br>
+
+		How can a corporation be used to limit liability and maximize tax advantages? A corporation is an effective device for buying and selling real estate on a short term basis (also called “flipping”).  A land trust is an effective device for taking title, but it will not protect the beneficiaries from personal liability (since the beneficiary of a land trust reserves the right to direct the actions of the trustee, the beneficiaries can be held liable for mishaps on the property).  Thus, if you “buy and flip” property, you should have the beneficiary of the trust be a corporation to limit your liability.</br></br>
+
+		A corporation will limit the problem of IRS “dealer” status.  A dealer is one who regularly buys and sells real estate as a business.  If an individual is tagged as a “dealer,” the profits on his sale of property are subject to self employment tax (approximately 15%).  Corporate dividends, on the other hand, are not subject to self employment tax (although the investor may have to take some salary, subject to self employment tax, to satisfy the aggressive IRS auditor).</br></br>
+
+		What’s the difference between a “C” and “S” corporation? There are essentially two types of corporations for tax purposes, “C” and “S.”  A corporation is a “C” corporation by default; the “S” status must be elected.  A “C” corporation files its own tax return and pays taxes on its profits.  When the corporation distributes profit to its shareholders (called a “dividend”), the shareholders pay additional tax on their personal income tax returns (called “double taxation”).  An “S” corporation is not taxed at the corporate level.  Like a partnership, it files an informational return and the shareholders report their share of profit or loss on their personal income tax return.</br></br>
+
+		Which is better for real estate? An “S” corporation is not necessarily better than a “C” corporation, but rather it depends on the investor’s particular tax situation.  For example, an investor who has a working spouse may benefit from an “S” corporation, since a loss from the corporation’s operations can be used to offset the working spouse’s income.  On the other hand, if an investor has a large profit, she will have income tax on all profits, whether or not they are reinvested or distributed.  With a “C” corporation, the individual shareholder is not taxed on profits until they are distributed (the corporation itself pays tax on its income, but the first $50,000 of “C” corporation income is only taxed at the rate of 15%, which is much lower than personal income tax rates).</br></br>
+
+		What is a Limited Liability Company and how is it different from a corporation? The Limited Liability Company or “LLC” is now recognized in all fifty states.  People often confuse an LLC with a corporation, but it is much like more a partnership.  It’s owners, called “members,” can equally participate in the management of the company without personal liability.</br></br>
+
+		An LLC, if it has two or more members, is treated as a partnership for federal income tax purposes. Thus, like an “S” corporation, the profits and losses “flow through” to its owners.  On rental activities, these profits are not subject to self employment tax (an LLC which engages in “buying and flipping” may not be considered “passive” activity and thus subject the members to self employment tax.  Thus, a corporation may be better than an LLC for this purpose).</br></br>
+
+
+		Most states now recognize “single member” LLCs, that is, an LLC with only one owner.  The IRS treats a single member LLC as a “non-entity” for tax purposes.  That is, the member would report as though the LLC did not exist.  Thus, if the investor was reporting his rental activities on schedule “E” of his federal income tax return, a transfer of property from his own name to a single member LLC would not result in any change of reporting.  Furthermore, an LLC between husband and wife can still be treated as a “single member” for federal income tax purposes.  Thus, one could form an LLC for each property he owns and still file only one tax return!</br></br>
+
+
+		What is the best entity for doing “sandwich” lease options? When you lease with option then sublease with option (called a “sandwich”), you are essentially doing a “buy and flip” (i.e., when your subtenant exercise, you simultaneously exercise from the owner then sell to the subtenant). Thus, a corporation may be better than an LLC in this regard, especially if you do a number of deals and risk being classified as a “dealer.” </br></br>
+
+		So which is better for real estate, a land trust, a corporation, or an LLC? The land trust is simply a title holding device, not an entity apart from its owner.  Thus, regardless of who is the beneficiary, the property should always be bough and sold in a land trust.  The beneficiary should be a corporation for short term deals and an LLC for long term rentals.</br></br>
+
+		When do I create the land trust? Logistically, I prefer to use my corporation to sign the contract as a buyer.  If the contract goes bad, I'd rather the seller sue my corporation than me personally. When it is time to close, I simply create the land trust then assign the contract from my corporation to the trust.</br></br>
+
+
+	Should I use one land trust for each property? Yes, it is best to have a different trust for each property.</p>
+	
+	</br>
+
+		<p class="text-justify text-muted"><small>Copyright <span class='glyphicon glyphicon-copyright-mark'></span> 1998 Bronchick Consulting Group, P.C.</small></br></br>
+
+		
+		William Bronchick, J.D. is an author and attorney who regularly presents workshops and do-it-yourself seminars at real estate and landlord associations around the country. He is the president and co-founder of the Colorado Association of Real Estate Investors.  Bill specializes in all forms of asset protection and is the author of several great home study courses.</p>
+
+
+
+		</br></br><hr></br>
+
+
+		<h2>Criteria for a Successful Rent Increase</h2></br>
+
+			
+			
+		<p class="text-justify" class="text-muted">Using rental property as an investment is like any other business; to improve cash flow, you must either reduce expenses or increase income.  Increasing income is usually easier to achieve, but unless the residents are on a month-to-month lease, the only times you can increase the rent is when the lease expires, assuming the rental market will allow an increase.</br></br>
+
+		Rent increases in the 4-6% range are usually common, but it is not abnormal to see hikes as small as 2% or as high as 10%. It usually best to increase the rent even if only a minimum amount each time the lease renews. This way the resident is used to expecting an increase. Also the owner avoids having to tack on a large increase when the resident has been in the property for several years at below market rent.  A large increase is more likely to cause a resident to move then several smaller increases.  It is also recommended to increase the rent when a resident request that they lease the property on a month-to-month basis.  A Month-to-Month lease normally an advantage to the renter and a disadvantage to the landlord and residents normally expect to pay a little more.</br></br>
+
+		When considering the amount to increase, figure what your market rent would be.  The increase should not be substantially higher than what a comparable house would be renting for.  A comparable property would be a house that closely resembles your house in size, age, location, and amenities.</br></br>
+
+Despite your best efforts, some renters will choose to move away anyway regardless of an increase. </p>
+
+
+
+
+

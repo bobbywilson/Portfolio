@@ -1,0 +1,71 @@
+<h2>Diligent Placement</h2></br>
+			
+			<p class="text-justify" class="text-muted">Property managers accept calls and inquiries regarding your home. They arrange appointments and coordinate showings of your property.</br></br>
+			
+			We have an impressive track record in placing quality residents. We attribute this success to our extensive marketing efforts, screening process and commitment to exceptional service.  We believe the most important part of professional property management is finding a quality resident for your home.</br></br>
+			
+			Our marketing program is the best in Indianapolis. Most important is our reputation. We are known for quality homes and professional management practices. Promotion efforts include media advertising, signs, flyers, outside leasing contractors and our web site. Available homes are showcased weekly to several outside leasing teams, placement and realtor offices. We receive many inquiries by e-mail and our website. </p>
+			
+			<h3>Overview of Marketing Resources</h3> </br>
+			
+			<div class="row">
+  				<div class="col-md-3" id="row-left">
+    				<p class="text-justify" class="text-muted">
+						<span class="glyphicon glyphicon-check"></span> Classified Ads</br>
+						<span class="glyphicon glyphicon-check"></span> Office Open Mon-Fri</br>
+						<span class="glyphicon glyphicon-check"></span> Works with Relocation Offices</br>
+						<span class="glyphicon glyphicon-check"></span> National Web Sites</br>
+						<span class="glyphicon glyphicon-check"></span> Competitive rents</br>
+						<span class="glyphicon glyphicon-check"></span> Broker Referrals</br>
+					</p>
+  				</div>
+  			
+  				<div class="col-md-3" id="row-right"> 
+    				<p class="text-justify" class="text-muted">
+    					<span class="glyphicon glyphicon-check"></span> Chamber of Commerce</br>
+						<span class="glyphicon glyphicon-check"></span> Our Web-Site & email</br>
+						<span class="glyphicon glyphicon-check"></span> Professional Yard Signs</br>
+						<span class="glyphicon glyphicon-check"></span> Showing Evenings & Weekends by Appointment</br>
+						<span class="glyphicon glyphicon-check"></span> 27 years experience & reputation</br>
+						<span class="glyphicon glyphicon-check"></span> Full-time Leasing Agents</br>
+						</b>
+					</p>
+					
+  				</div>
+  
+			</div>
+			
+			</br></br>
+			
+			<p class="text-justify" class="text-muted">After a potential resident is located we conduct an extensive screening process. This process includes credit reports, criminal background checks, social security verification and anti-terrorist watch list check and eviction report. After acceptance, we complete negotiations, execute contracts, process documents and move the resident into their new home.</p>
+			
+			<h3>Overview of Resident Screening</h3>
+			
+			<div class="row">
+  				<div class="col-md-3" id="row-left">
+    				<p class="text-justify" class="text-muted">
+						<span class="glyphicon glyphicon-check"></span> Credit Report</br>
+						<span class="glyphicon glyphicon-check"></span> Criminal Background Check</br>
+						<span class="glyphicon glyphicon-check"></span> Anti-Terrorist Watch List Check</br>
+						<span class="glyphicon glyphicon-check"></span> Social Security Number verification</br>
+						<span class="glyphicon glyphicon-check"></span> Eviction Report</br>
+						<span class="glyphicon glyphicon-check"></span> Verify Employment & income</br>
+						<span class="glyphicon glyphicon-check"></span> Move-in Inspection Documentation</br>
+					</p>
+  				</div>
+
+  			
+  				<div class="col-md-3" id="row-right"> 
+    				<p class="text-justify" class="text-muted">
+    					<span class="glyphicon glyphicon-check"></span> Security Deposits & pet rent</br>
+						<span class="glyphicon glyphicon-check"></span> Check out Rental History</br>
+						<span class="glyphicon glyphicon-check"></span> Negotiate best Lease Terms</br>
+						<span class="glyphicon glyphicon-check"></span> Time tested Leases</br>
+						<span class="glyphicon glyphicon-check"></span> Strong Documentation</br>
+						<span class="glyphicon glyphicon-check"></span> Important Information Provided to</br> Resident
+						</b>
+					</p>
+					
+  				</div>
+  
+			</div>

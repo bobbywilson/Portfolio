@@ -1,0 +1,310 @@
+
+<h2>Educate Yourself on the Buying Process</h2></br>
+		
+		<p class="text-justify" class="text-muted">Your new home purchase will probably be one of the most important decisions of your life.  Before you begin it is important to educate yourself on the real estate market in your area and the buying process.  An experienced real estate agent who knows the area can help you with both these issues.  Other excellent resources are books on home buying and seminars for the homebuyer.</br></br>
+
+The ten steps of the buying process discussed in this article are: </p>
+	
+
+		<ul>
+			<li class="text-justify" class="text-muted">Your Credit Score and “Loan Pre-Approval”</li>
+			<li class="text-justify" class="text-muted">Select the Best Real Estate Agency</li>
+			<li class="text-justify" class="text-muted">Search For Properties</li>
+			<li class="text-justify" class="text-muted">The Offer, Counter Offers and Acceptance</li>
+			<li class="text-justify" class="text-muted">Disclosure, Disclosure, Disclosure</li>
+			<li class="text-justify" class="text-muted">The Physical Inspection</li>
+			<li class="text-justify" class="text-muted">Opening Escrow</li>
+			<li class="text-justify" class="text-muted">Lender Requirements and the Final Walk Through</li>
+			<li class="text-justify" class="text-muted">Closing Escrow</li>
+			<li class="text-justify" class="text-muted">Final Notes</li>
+
+		</ul>
+
+<h2>Your Credit Score and “Loan Pre-Approvals”</h2></br>
+		
+		<p class="text-justify" class="text-muted">Your "FICO" score provided by each of the three credit reporting agencies is one of the most important factors that lenders consider when providing a good home loan and determining interest rates.  Your bank, or a mortgage broker,can interpret the FICO score for you and advise you on the best course for your situation.  It is wise to apply for a "Loan Pre-Approval”.  This entails a process of complete verification of your loan application, employment, assets, etc.  The loan approval step is critical to knowing the interest rate you can expect based on your credit and exactly how much home you can afford.  Furthermore, having a "Loan Pre-Approval" in hand will strengthen your offer on any property.</br></br>
+
+		The three major credit bureaus are TRW (Experian), Equifax and Trans-Union. The score is computed differently by each bureau since they place a slightly different emphasis on component items. Scores range from 365 to 840.</br></br>
+
+		Lenders started to take a closer look at FICO scores in the early 1990s and this is what they found out. The chart below shows the likelihood of a ninety-day delinquency for a specific FICO score.</p>
+
+
+</br>
+
+			<div class="panel panel-default" id="panel-default-credit">
+
+			<div class="panel-heading"><span class="text-justify text-info" class="text-muted">FICO Score Delinquency Distribution</span></div>
+			
+				<div class="panel-body" id="table-panel">
+				
+				<p class="text-justify" class="text-muted">Likelihood of a 90 day delinquency for a specific FICO score</p>
+
+				</div>
+
+				<table class="table" id="client-table">
+					<thead>
+      						<tr>
+        						<th id="text-left" class="text-muted">Score</th>
+        						<th id="text-left" class="text-muted">Odds</th>
+      						</tr>
+    					</thead>
+
+
+    
+					<tbody>
+     
+						<tr>
+        						<td id="text-left" class="text-danger">595</td>
+        						<td id="text-left" class="text-left text-danger" >2 to 1</td>
+      						</tr>
+
+						<tr>
+       	 						<td id="text-left" class="text-danger">600</td>
+        						<td id="text-left" class="text-left text-danger" >5 to 1</td>
+      						</tr>
+      						
+						<tr>
+        						<td id="text-left" class="text-danger">615</td>
+      							<td id="text-left" class="text-left text-danger" >9 to 1</td>
+      						</tr>
+      						
+						<tr>
+        						<td id="text-left" class="text-warning">630</td>
+        						<td id="text-left" class="text-left text-warning" >18 to 1</td>
+      						</tr>
+      
+						<tr>
+        						<td id="text-left" class="text-warning">645</td>
+        						<td id="text-left" class="text-left text-warning" >36 to 1</td>
+						</tr>
+      
+						<tr>
+        						<td id="text-left" class="text-warning">660</td>
+        						<td id="text-left" class="text-left text-warning" >72 to 1</td>
+      						</tr>
+     					 
+						<tr>
+        						<td id="text-left" class="text-success">680</td>
+        						<td id="text-left" class="text-left text-success" >144 to 1</td>
+      						</tr>
+
+      						<tr>
+    							<td id="text-left" class="text-success">700</td>
+        						<td id="text-left" class="text-left text-success" >288 to 1</td>
+      						</tr>
+      
+						<tr>
+        						<td id="text-left" class="text-success">780</td>
+        						<td id="text-left" class="text-left text-success" >576 to 1</td>
+      						</tr>
+    
+					</tbody>
+				
+
+			   
+  				</table>
+
+			</div>
+	
+		</div>
+
+
+</br>
+
+
+<p class="text-justify" class="text-muted">What affects FICO scores? -- How do lenders look at them? Some of the things that affect your FICO scores are:</p>
+
+<ul><li class="text-justify" class="text-muted">Delinquencies</li>
+<li class="text-justify" class="text-muted">Too many accounts opened within the last twelve months</li>
+<li class="text-justify" class="text-muted">Short credit history</li>
+<li class="text-justify" class="text-muted">Balances on revolving credit are near the maximum limits</li>
+<li class="text-justify" class="text-muted">Public records, such as tax liens, judgments, or bankruptcies</li>
+<li class="text-justify" class="text-muted">No recent credit card balances</li>
+<li class="text-justify" class="text-muted">Too many recent credit inquiries</li>
+<li class="text-justify" class="text-muted">Too few revolving accounts</li>
+<li class="text-justify" class="text-muted">Too many revolving accounts</li></ul></br>
+
+<p class="text-justify" class="text-muted">The credit score is actually calculated using a "scorecard" where you receive points for certain things. Creditors and lenders who view your credit report do not get to see the scorecard, so they do not know exactly 
+how your score was calculated.  They just see the final scores.</br></br>
+
+Basic guidelines on how to view the FICO scores vary a little from lender to lender.  Usually, a score above 680 will require a very basic review of the entire loan package. Scores between 640 and 680 require more thorough underwriting.  Once a score gets below 640, an underwriter will look at a loan application with a more cautious approach. Many lenders will not even consider a loan with a FICO score below 600, some as high as 620.</p>
+
+<h3>FICO scores and interest rates</h3></br>
+
+<p class="text-justify" class="text-muted">Credit scores can affect more than whether your loan gets approved or not.  They can also affect how much you pay for your loan, too.  Some lenders establish a "base price" and will reduce the points on a loan if the credit score is above a certain level.  For example, one major national lender reduces the cost of a loan by a quarter point if the FICO score is greater than 725.  If it is between 700 and 724, they will reduce the cost by one-eighth of a point.  A point is equal to one percent of the loan amount.  There are other lenders who do it in reverse.  They establish their base price, but instead of reducing the cost for good FICO scores, they "add on" costs for lower FICO scores.  The results from either method would work out to be approximately the same interest rate.  It is just that the second way "looks" better when you are quoting interest rates on a rate sheet or in an advertisement.</br></br>
+
+Factors other than FICO scores affect underwriting decisions.  Some examples of compensating factors that will make an underwriter more lenient toward lower FICO scores can be a larger down payment, low debt-to-income ratios, an excellent history of saving money, and others.  There also may be a reasonable explanation for items on the credit history that negatively impact your credit score.</br></br>
+They don't always make sense.  Even so, sometimes credit scores do not seem to make any sense at all. One borrower with a completely flawless credit history had a FICO score below 600.  One borrower with a foreclosure on her credit report had a FICO above 780.</p>
+
+<h3>Portfolio & sub-prime lenders</h3></br>
+
+<p class="text-justify" class="text-muted">Finally, there are a few "portfolio" lenders who do not even look at credit scoring, at least on their portfolio loans.  A portfolio lender is usually a savings and loan institution who originates some adjustable rate mortgages that they intend to keep in their own portfolio instead of selling them in the secondary mortgage market.  They may look at home loans differently.  Some concentrate on the value of the home.  Some may concentrate more on the savings history of the borrower.  There are also "sub-prime" lenders, or "B & C paper" lenders, who will provide a home loan, but at a higher interest rate and cost.</br></br>
+
+Numerous credit reports can effect your FICO score.  Wait until you have a reasonable expectation that you will use a lender before you let them run your credit report.  Not only will you have to explain any credit inquiries in the last ninety days, but also numerous inquiries will lower your FICO score by a small amount.  This may not matter if your FICO is 780, but it would matter to you if it is 642.  Don't buy a car just before looking for a home!</br></br>
+
+When people begin to think about the possibility of buying a home, they often think about buying other big-ticket items, such as cars.  Quite often when someone asks a lender to pre-qualify them for a home loan there is a brand new car payment on the credit report.  Often, they would have qualified in their anticipated price range except that the new car payment has raised their debt-to-income ratio, lowering their maximum purchase price.</p>
+
+
+
+<h3>Mortgage Basics</h3></br>
+
+<p class="text-justify" class="text-muted">When buying a home it is important to learn about the variety of mortgages options and to determine which mortgage type is the best for your situation.  If you qualify for more than one option you would save yourself money in the long run.  Your local banker or a mortgage broker are excellent resources for locating the best mortgage at the best rates. </br></br>
+
+Mortgages fall into four major categories:</p>
+
+<ul>
+
+<li class="text-justify" class="text-muted">Government Loans such as VA and FHA</li>
+<li class="text-justify" class="text-muted">Fixed-Rate Mortgages</li>
+<li class="text-justify" class="text-muted">Adjustable-Rate Mortgages</li>
+<li class="text-justify" class="text-muted">Convertible ARM</li>
+
+</ul>
+
+
+		<h3>Government Loans</h3></br>
+
+		<p class="text-justify" class="text-muted">FHA Loans: The Federal Housing Association offers loans to lower-income Americans.  Watch for the FHA approved when looking for homes.</br></br>
+
+		VA Loans: Veterans may qualify for a loan from the Veterans Administration.  VA loans have excellent interest rates but there is a limit on the amount you can borrow.  This option is used mostly by first time home buyers.</p>
+
+
+
+		<h3>Fixed-Rate Mortgages</h3></br>
+
+		<p class="text-justify" class="text-muted">Fixed-Rate Mortgages are the most common.  If you want a payment you can count on for a long of a period of time, a fixed rate mortgage works best.  With a fixed rate you will have the same payment for the rest of your life.  Fixed-Rate Mortgages are very popular when interest rates are very low.  Even though the payment is a set amount you can make extra payments to the principal of the loan and pay off the loan sooner. This would save a considerable amount of interest over the life of the loan.</br></br>
+
+		A Fixed-Rate Mortgage works well for people who plan to stay in the home for many years and want to know what their payment will be each month.  Fixed rate mortgages are offered in varying lengths and normally range from 15 to 30 year paybacks.  Thirty years is the most common choice for first time homebuyers as the payments are the lowest and the mortgage is the easiest to qualify for.  Most of the payment in the early years of the mortgage are tax deductible as interest expense.</p>
+
+
+		<h3>Adjustable-Rate Mortgages (ARMs)</h3></br>
+
+		<p class="text-justify" class="text-muted">ARM rate rises and falls depending on the prevailing interest rate.  The interest rate is usually lower than a Fixed-Rate and therefore the payment is lower.  The lower initial payments will allow you to qualify for a larger loan than if you chose a fixed-rate type.  The downside is that your payments can increase if/when the rates go up.
+ARM interest rates are tied to a specific financial index (such as Certificate of Deposit index, Treasury or T-Bill rate, Cost of Funds-Indexed Arms or COFi, or LIBOR [London Interbank Offered Rate]) and your payment will be based on the index your lender uses plus a margin (generally two to three points).</br></br>
+
+		Fortunately, the amount an ARM can raise is not unlimited.  There are "caps" on how much your lender can increase your rate, both for a period of one year and for the life of the loan.  When interest rates are very high adjustable rate mortgages are very popular.  They are also recommended when your planned ownership of the property is short-term or if you expect your income will increase to cover any potential rise in the interest rate.</br></br>
+
+		In the long term if interest rates rise the rate as it is adjusted could result in a higher effective rate than the Fixed-Rate Mortgage interest rate available at the time of purchase.  Get the formula used by your lender in writing and make sure you understand what it means.</p>
+
+
+		<h3>Convertible ARMs</h3></br>
+
+		<p class="text-justify" class="text-muted">The Convertible ARM combines the initial advantage of an ARM of lower payments and converts to a stated fixed rate after a predetermined number of years.  This option is desirable when interest rates are low and the future rate is not guaranteed.  In the beginning the Coverable ARM acts like an ARM and once the ARM is converted the loan becomes a fixed rate mortgage with stable payments for the rest of the life of the loan.</p>
+
+
+
+<h3>In Conclusion</h3></br>
+
+<p class="text-justify" class="text-muted">Your credit history is important and credit scores are important if you want to get the best interest rate available. Protect your FICO score.</p>
+
+<ul>
+<li class="text-justify" class="text-muted">Do not open new revolving accounts needlessly.</li>
+<li class="text-justify" class="text-muted">Do not fill out credit applications needlessly.</li>
+<li class="text-justify" class="text-muted">Do not keep your credit cards nearly maxed out.</li>
+<li class="text-justify" class="text-muted">Make sure you do use your credit occasionally.</li>
+<li class="text-justify" class="text-muted">Always make sure every creditor has their payment in their office no later than 29 days past due.</li>
+<li class="text-justify" class="text-muted">Never, ever be more than thirty days late on your mortgage--ever.</li>
+</ul>
+
+
+<h2>Select the Best Real Estate Agency</h2></br>
+		
+		<p class="text-justify" class="text-muted">It is an advantage to the buyer to have the best professional representation.  In most situations the seller of the property pays the real estate commission and the services of a professional real estate agent are free to the buyer.  We dedicate our full attention to service and commitment to our clients.</p>
+
+
+
+<h2>Search For Properties</h2></br>
+		
+		<p class="text-justify" class="text-muted">Sometimes you find the home of your dreams immediately and your first offer is accepted. Usually the search takes several weeks and it may not necessarily end with the first home you submit an offer on.  For some people the home search process will take months.  Be determined to find the perfect home at the best possible price, regardless of whether it takes a day or months.</br></br>
+
+		Our agents use all the latest real estate technology.  It is important to your search to be kept abreast of new homes.  We monitor the real estate market on a daily basis and notify our buyers of newly listed properties the moment they come to market. We will help you find all the best properties for your consideration.</p>
+
+
+
+
+
+<h2>The Offer, Counter Offers and Acceptance</h2></br>
+		
+		<p class="text-justify" class="text-muted">You have found the right home and you are ready to make an offer.  Things included in your offer should be:  offer price, terms, conditions and contingencies that must be met in your purchase.  It is best to submit offers on the standard form for a residential purchase agreement.  A good faith deposit check is normally submitted with the offer.  Your real estate agent can carefully explain the purchase agreement to you and fill it out with your complete understanding.  You then initial each page and sign the contract.</br></br>
+
+		Once the offer is presented to the seller they may come back with a counter offer.  It “stops” your offer when the seller counters with additional terms or conditions.  You can accept the sellers offer or make a counter offer of your own.  A real estate transaction often will have one or more counter offers before the buyer and seller come to an agreement on price and terms.  Your real estate agent will help you with a counter offer and insure that you meet all deadlines and conditions.  You have a sales contract once you have reached a successful negotiation with the seller and an offer or counter offer is accepted by one of the parties.</p>
+
+
+<h2>Disclosure, Disclosure, Disclosure…</h2></br>
+		
+		<p class="text-justify" class="text-muted">The buyer should request the seller and their agent disclose every material fact known that may effect your buying decision on the property.  Sellers normally provide such a disclosure to their agent.  It is best to request a copy of this disclosure when making the purchase offer or immediately thereafter.</p>
+
+
+
+<h2>The Physical Inspection</h2></br>
+		
+		<p class="text-justify" class="text-muted">There is normally a general physical inspection of the property sometime before opening escrow. The inspection process is designed to ensure that you are making an educated buying decision.  A licensed inspector is hired to do a general inspection of the major systems that relate to the property.  Your realtor can recommend an inspector with whom they have had good experience with in the past.</br></br>
+
+		The inspection usually costs between $250 and $600 depending on the home.  In some states the buyer pays for the inspection and in other states the seller.  In New Mexico the seller usually pays for the inspection.  If defects are found in the inspection the buyer and seller usually determine reasonable repairs to be done by the seller or an adjustment in purchase price.  If an agreement is not made on these issues the contract can be mutually cancelled.</p>
+
+
+
+<h3>Home Inspectors are Sometimes Wrong</h3></br>
+		
+		<p class="text-justify" class="text-muted">The Jones went to a lot of trouble to insure that their home was in good repair and was fixed up for sale before placing it on the sales market.  The property was attractive and priced to sell.  In a short time there was a contract for sale.</br></br>
+
+		When the buyer's inspector came to perform the general inspection he found that the roof was on its last legs and recommending spending $5,000 for a new roof.  The Jones were surprised and upset because the roof should have lasted several more years. They called their roofing contractor who after studying the roof recommended a $500 repair and assured the Jones that the roof would last another three to five more years.  Eventually a third roofer recommended by the buyer was consulted who agreed with the Jones contractor.  The Jones did the $500 repair and the buyer was satisfied with the opinion of the two roofing contractors.</br></br>
+
+		Inspectors are human and can make mistakes. Do not panic if you get a negative inspection report.  Get a second expert opinion and work to resolve the problem.</br></br>
+
+		The solution is not always this easy, especially when contractors can't agree.  Keep in mind that there is an element of subjectivity involved in the inspection process.  For example, two contractors might disagree on the remedy for a dry-rotted window:  one calling for repair and the other for replacement.</br></br>
+
+		The buyer normally choses the inspector and picks up the cost. If you do not agree with the inspectors report, sometimes finding the right expert to give an opinion on a suspected house problem is the answer.</p>
+
+
+
+<h2>Opening Escrow</h2></br>
+		
+		<p class="text-justify" class="text-muted">Your purchase agreement including any offers and counter offers constitutes your contract and initial instructions to the escrow agent.  The escrow agent acts as a third party and insures that all the conditions of the sales contract are met as well as any lenders requirements.  They handle all the paperwork and cash.  It is important to have a good escrow agent to insure that your transaction closes on time.  Your real estate agent can recommend a good escrow agent they have worked with in the past.  Escrow normally takes between 30 and 60 days.  Now is also a good time to line up your homeowner’s insurance.  Recently obtaining homeowners insurance has become more difficult and takes more time than in the past.</p>
+
+
+<h2>Leander Requirements and Final Walk Through</h2></br>
+		
+		<p class="text-justify" class="text-muted">Prior to closing your lender usually requires a termite report, title insurance policies, and an appraisal.  The seller usually pays for the termite report.  There are normally two title policies, an owner’s title insurance policy paid by the seller and a lenders title insurance policy paid for by the buyer.  The buyer’s lender will also require that the property be appraised prior to funding.  Usually there is not a problem with the appraisal unless you overpay for the property.  You can protect yourself by stipulating in your offer that the property must at least appraise for the purchase price.</br></br>
+
+		A few days before closing you will conduct a final walk through to insure that the property is in the same condition as when the physical inspection was preformed and that any negotiated repairs etc. are completed.</p>
+
+
+
+
+		<h2>Closing Escrow</h2></br>
+		
+		<p class="text-justify" class="text-muted">Prior to closing the deal, you need to ensure that escrow gets a copy of your new home insurance policy and that any balance of the purchase funds be deposited with escrow.  Escrow will also provide you with a "Closing Settlement Statement" which discloses all of your charges (debits) and credits in the transaction.  It is imperative that you carefully scrutinize this document to ensure its accuracy.  When your loan is fully approved, escrow requests loan documents from your lender and schedules a closing date and time to execute the paperwork.</br></br>
+
+		There is a considerable amount of documents that will require your signature.  For this reason, the closing session is characteristically known as a "signing spree".  Almost all the documents are standard forms and not subject to change.  One of life’s most exhilarating experiences comes after closing when your agent congratulates you on owning your new home.</br></br>
+
+
+		Once this session is complete, escrow requests your loan funds from the lender.  Normally, the day after the loan funds are received, the deed conveying the title to the Buyer is recorded at the county recorders office.</p>
+
+
+
+
+		<h2>Final Notes</h2></br>
+		
+		<p class="text-justify" class="text-muted">Plan your move appropriately and make sure to give yourself enough time to adequately pack and unpack.  Don't forget to transfer all utilities into your name including the water if applicable. Remember that utilities and cable TV can require several days’ notice.  Be sure to order your new phone service and forward all of your mail at least one week in advance.  Get references for yard services, housekeepers, etc. Your agent can assist you in locating the correct utility companies for your new home.</br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
