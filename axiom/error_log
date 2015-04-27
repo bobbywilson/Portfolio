@@ -1,0 +1,5 @@
+[27-Apr-2015 06:58:38 UTC] PHP Notice:  Undefined variable: about_status in /home/bwwilson/public_html/axiom/includes/header.php on line 175
+[27-Apr-2015 06:58:38 UTC] PHP Notice:  Undefined variable: properties_status in /home/bwwilson/public_html/axiom/includes/header.php on line 177
+[27-Apr-2015 06:58:38 UTC] PHP Notice:  Undefined variable: residents_status in /home/bwwilson/public_html/axiom/includes/header.php on line 190
+[27-Apr-2015 06:58:38 UTC] PHP Notice:  Undefined variable: client_status in /home/bwwilson/public_html/axiom/includes/header.php on line 210
+[27-Apr-2015 06:58:38 UTC] PHP Notice:  Undefined variable: contact_status in /home/bwwilson/public_html/axiom/includes/header.php on line 230
