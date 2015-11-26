@@ -20,7 +20,7 @@
 
 		<div class="jumbotron" id="nested">
 		
-    		<h2>Welcome to Axiom Property Management LLC</h2> </br> 
+    		<h2>Welcome to Axiom Property Management</h2> </br> 
     		    
    			<p class="text-justify" class="text-muted">Axiom Property Management is a groundbreaking real estate asset management company.  Located in Indianapolis, Indiana, Axiom Property Management is poised to provide unparalleled services to its clients and residents.</br></br>
     
