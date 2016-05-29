@@ -1,4 +1,3 @@
-
 <?php
 	
 	include("../config.php");
@@ -150,11 +149,15 @@
 
 					<div class="panel-heading"><span class="text-justify text-info" class="text-muted">' . ucwords( strtolower($item->property_name)) . '</span></div>
 			
-					<div class="panel-body" id="table-panel"><p class="text-justify" class="text-muted"><small>' . ucwords( strtolower($item->street)) . ", " . ucwords( strtolower($item->city)) . ", " . ucwords($item->state) . ", " . ucwords( strtolower($item->zip_code)) . 
+					<div class="panel-body" id="table-panel">
 					
-					'<button type="submit" class="btn btn-default btn-lg" id="property-button" name="submit" tabindex="12">
+					<div class="col-md-8" id="property-address">
+					<p class="text-justify" class="text-muted"><small>' . ucwords( strtolower($item->street)) . ", <br /> " . ucwords( strtolower($item->city)) . ", " . ucwords($item->state) . ", " . ucwords( strtolower($item->zip_code)) . 
 					
-					<a href="' . $item->apply . '" target="_blank">Apply</button></a></small></p>
+					'</div> 
+					<div class="col-md-4" id="property-address">
+					<a href="' . $item->apply . '" target="_blank" type="button" class="btn btn-default btn-lg" id="button-group-property" name="submit">Apply</a></a></small></p>
+					</div>
 					</div>
 			
 

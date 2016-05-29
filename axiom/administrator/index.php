@@ -1,15 +1,22 @@
-
-
 <?php
 
 session_start();
-
 
 include("../config.php");
 
 $page = "Axiom Property Management Administration Login";
 
 $js = URL_ROOT . "assets/js/javascript.js";
+
+$noback = URL_ROOT . "assets/js/no_back.js";
+
+// if ((isset($_SESSION['views']) && $_SESSION['views'] == "loggedout" || $_SESSION['views'] == "")) {
+// 	
+// 	header('Location: ../includes/login_error_display.php');
+// 	
+// }
+
+
 	
 $admin_login_status = 'class="active"';
 $home_icon = 'id="home-icon"';
@@ -23,7 +30,6 @@ if(isset($_POST["submit"])) {
 	include("../classes/validation.class.php");
 	
 	$validation = new Validation();
-	
 	
 	$username = $validation -> clean_txt($_POST["username"]);
 	$password = $validation -> clean_txt($_POST["password"]);
@@ -57,36 +63,37 @@ if(isset($_POST["submit"])) {
 		
 	
 	} else {
-	
+
 		$username = "";
 		$password = "";
 	
 	}
 	
 	include("../includes/header.php");
-
 	
-	if(!isset($errors) || count($errors) != 0) {
+	if ((isset($_SESSION['views']) && $_SESSION['views'] == "loggedout" || $_SESSION['views'] == "")) {
+	
+		if(!isset($errors) || count($errors) != 0) {
 	
 	
-		include("../includes/admin_login_form.php");
+			include("../includes/admin_login_form.php");
 		
+		
+		} 
 		
 	} else {
 	
 		include("../includes/admin_menu.php");
-		
-	
+
 	}	
 	
-		echo "\t" . "\t" . '</div>';
-		echo "\t" . '</div>';
-		echo '</div>';
+	
+	echo "\t" . "\t" . '</div>';
+	echo "\t" . '</div>';
+	echo '</div>';
 
 	
-		include("../includes/footer.php");
-
-
+	include("../includes/footer.php");
 		
 ?>
  

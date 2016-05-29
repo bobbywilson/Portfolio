@@ -1,5 +1,9 @@
+<?php
+
+session_start();
 
 
+?>
 
 <div class="jumbotron" id="main">
 
@@ -10,14 +14,13 @@
     		<h2>Axiom Property Management Administration Login</h2> </br>
     		
     		<p class="text-justify">Please enter your username and password.</p>
-    		
-		
 		
 						<?php
 						
 							include("../includes/error_display.php");
 						
 						?>
+			
 						
 		<h5 class="text-left">Fields marked with a "<span class="required"> &bull; </span>" are required.</h5>
 		
@@ -49,14 +52,7 @@
         							<input type="password" class="form-control" id="password" name="password" placeholder="Password" value="<?php echo $password; ?>" onblur="return upper()" tabindex="2">
       							</div>
     						</div>
-    						
-    						
-    						
-    						
-							
-							
-							
-							
+    				
 							<div class="form-group" id="submit-button-box">
     							<div class="col-xs-12" id="col-xs">
   									<label class="sr-only" for="submit">Submit</label>

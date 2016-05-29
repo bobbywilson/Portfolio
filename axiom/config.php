@@ -11,7 +11,7 @@
 	define("BUSINESS_EMAIL", "<span class='glyphicon glyphicon-envelope'></span><a href='mailto:info@axiommgt.com?Subject=Axiom%20Property%20Management'> info@axiommgt.com</a>", false);
 	define("CUR_YEAR", date('Y'), false);
 	define("COPYRIGHT", "<span class='glyphicon glyphicon-copyright-mark'></span> Copyright Axiom Property Management LLC", false);
-	define("EHO_WHITE", '<img src="http://www.bobbywwilson.com/axiom/assets/images/eho_footer.jpg">', false);
+	define("EHO_WHITE", '<img class="eho-img" src="http://www.bobbywwilson.com/axiom/assets/images/eho_footer.jpg">', false);
 	define("EHO_BLACK", '<span id="sub">EHO</span> <img src="http://www.bobbywwilson.com/axiom/assets/images/eho_black.jpg">', false);
 	
 	define("CEO_NAME", "Rob Attinger, CAM", false);

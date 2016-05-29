@@ -1,0 +1,9 @@
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: page in /home/bwwilson/public_html/axiom/includes/header.php on line 48
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: home_icon in /home/bwwilson/public_html/axiom/includes/header.php on line 169
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: home_status in /home/bwwilson/public_html/axiom/includes/header.php on line 174
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: about_status in /home/bwwilson/public_html/axiom/includes/header.php on line 175
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: properties_status in /home/bwwilson/public_html/axiom/includes/header.php on line 177
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: residents_status in /home/bwwilson/public_html/axiom/includes/header.php on line 190
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: client_status in /home/bwwilson/public_html/axiom/includes/header.php on line 210
+[24-Jun-2015 16:30:53 UTC] PHP Notice:  Undefined variable: contact_status in /home/bwwilson/public_html/axiom/includes/header.php on line 230
+[24-Jun-2015 16:30:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3303 bytes) in /home/bwwilson/public_html/axiom/includes/update_property_form.php on line 201

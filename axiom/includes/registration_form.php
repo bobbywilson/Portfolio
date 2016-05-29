@@ -1,14 +1,16 @@
 <?php
 
-if (!(isset($_SESSION['views']) && $_SESSION['views'] != "")) {
+	session_start();
 
-require_once("../config.php");
-require_once("../includes/header.php");
-require_once("../includes/login_error_display.php");
-require_once("../includes/footer.php");
-!include("../includes/registration_form.php");
-
-}
+	if (!(isset($_SESSION['views']) && $_SESSION['views'] != "")) {
+	
+	require_once("../config.php");
+	require_once("../includes/header.php");
+	require_once("../includes/login_error_display.php");
+	require_once("../includes/footer.php");
+	!include("../includes/update_property_form.php");
+	
+	}
 
 ?>
 

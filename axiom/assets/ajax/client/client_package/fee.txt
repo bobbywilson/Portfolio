@@ -1,11 +1,11 @@
-<h2>Management Fees and Other Charges</h2></br>
+<h2>Management Fees and Other Charges</h2><br />
 			
 			
-			<p class="text-justify" class="text-muted">Property management is a very competitive business.  Some property managers only offer a standard management service while others offer a range of services.  There are different ways property managers can charge for services.  It is important to ask what services are optional or available.  Be sure to understand all possible charges other than a percentage of the rent.
+			<p class="text-justify text-muted">Property management is a very competitive business.  Some property managers only offer a standard management service while others offer a range of services.  There are different ways property managers can charge for services.  It is important to ask what services are optional or available.  Be sure to understand all possible charges other than a percentage of the rent.
 Fees and charges should be addressed completely in the property management agreement.  Examples of common charges for a standard management service are:  flat percentage of rent or a percentage of rent plus fees for individual services.  Example of possible other fees are placement fees for locating a resident and/or charges for advertising, referral fees, lease renewals, fee for closing an account, and miscellaneous administrative expenses. </p>
 
 
 			<h3><?php echo constant("BUSINESS_NAME"); ?>Rate Schedule</h3>
 			
 			
-			<p class="text-justify" class="text-muted">Our fees are very competitive and are based on the services you request.  Services are usually computed as a percentage of the rent, a flat fee, or a combination of both.  The client controls the level and type of services.  Services range from standard property management package or a combination of standard management and other services.  We would be happy to meet with you and design a management package that fits your needs.  All fees are subject to applicable gross receipt tax. </p>
+			<p class="text-justify text-muted">Our fees are very competitive and are based on the services you request.  Services are usually computed as a percentage of the rent, a flat fee, or a combination of both.  The client controls the level and type of services.  Services range from standard property management package or a combination of standard management and other services.  We would be happy to meet with you and design a management package that fits your needs.  All fees are subject to applicable gross receipt tax. </p>

@@ -1,11 +1,9 @@
-
-
 <?php
 
 
 	require_once("database.class.php");
 	
-	class Contact {
+	class contact {
 	
 		public $conn="";
 		
@@ -45,21 +43,16 @@
 		
 		
 		
-		public function add_comment($first_name, $last_name, $email, $phone, $street, $city, $state, $zip_code, $comment) {
+		public function add_comment($first_name, $last_name, $email, $comment) {
 		
 			try {
 					
-					$sql = "INSERT contact(first_name, last_name, email, phone, street, city, state, zip_code, comment, created_at) VALUES(:first_name, :last_name, :email, :phone, :street, :city, :state, :zip_code, :comment, CURRENT_DATE())";
+					$sql = "INSERT contact(first_name, last_name, email, comment, created_at) VALUES(:first_name, :last_name, :email, :comment, CURRENT_DATE())";
 				
 					$s = $this->conn->prepare($sql);
 					$s -> bindValue(':first_name', $first_name);
 					$s -> bindValue(':last_name', $last_name);
 					$s -> bindValue(':email', $email);
-					$s -> bindValue(':phone', $phone);
-					$s -> bindValue(':street', $street);
-					$s -> bindValue(':city', $city);
-					$s -> bindValue(':state', $state);
-					$s -> bindValue(':zip_code', $zip_code);
 					$s -> bindValue(':comment', $comment);
 					
 					$s -> execute();
@@ -92,7 +85,7 @@
 		
 			try {
 				
-				$sql = "SELECT contact_id, first_name, last_name, email, phone, street city, state, zip_code, comment FROM contact WHERE contact_id != 0 ORDER BY contact_id";
+				$sql = "SELECT contact_id, first_name, last_name, email, comment FROM contact WHERE contact_id != 0 ORDER BY contact_id";
 				
 				$result = $this->conn->query($sql);
 				
@@ -118,7 +111,6 @@
 
 
 ?>
-
 
 
 

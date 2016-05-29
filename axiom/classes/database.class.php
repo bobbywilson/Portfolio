@@ -1,5 +1,3 @@
-
-
 <?php  
 
 	// Database Class
@@ -8,9 +6,9 @@
 	
 	
 		private $host 	  = "localhost";
-		private $database = "axiom";
-		private $user     = "****";
-		private $password = "****";
+		private $database = "AxiomProperty";
+		private $user     = "bobbywilson";
+		private $password = "#28aDorset";
 		
 		public $conn="";
 	

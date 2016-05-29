@@ -1,5 +1,3 @@
-
-
 body	{
 	
 	background-color: #EEE;
@@ -12,11 +10,11 @@ body	{
 	border-left: 0px solid #000;
 	border-right: 0px solid #000;
 	background-color: #FFF;
-	padding-bottom: 6%;
+	padding-top: 10px !important;
 	position: fixed;
 	top: 50px !important;
 	width: 100%;
-	height: 50px !important;
+	height: 100px !important;
 	z-index: 3 !important;
 	opacity: 0.5 !important;
 }
@@ -29,13 +27,13 @@ body	{
 
 
 #logo	{
-
+	
 	height: 50px !important;
 	
 
 }
 
-#navbar-header	{
+.navbar-header-mobile	{
 	
 		visibility: hidden !important;
 	
@@ -594,7 +592,7 @@ input.noError, textarea.noError, select.noError	{
 }
 
 #table-panel	{
-
+	
 	border-bottom: 1px solid #CCC;
 	text-align: center;
 	background-color: #EEE;
@@ -615,7 +613,7 @@ table tr td	{
 #panel-default	{
 
 	background-color: #EEE;
-	width: 49%;
+	width: 100%;
 
 }
 
@@ -623,7 +621,7 @@ table tr td	{
 #panel-default-credit	{
 
 	background-color: #EEE;
-	width: 49%;
+	width: 100%;
 
 }
 
@@ -1066,7 +1064,104 @@ hr {
 	vertical-align: 20%;
 }
 
+.delete	{
+	float: right;
+	font-weight: normal;
+	cursor: pointer;
+}
 
+input	{
+	cursor: pointer;
+}
+
+
+.not-showing {
+		display: none !important;
+}
+
+
+#button-group {
+    font-weight: normal !important;
+    letter-spacing: 1px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+#button-group:hover {
+    opacity: .80 !important;
+    color: #fff !important;
+    background-color: #428BCA !important;
+}
+
+#button-group-client {
+	font-weight: normal !important;
+    letter-spacing: 1px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+#button-group-client:hover {
+    opacity: .80 !important;
+    color: #fff !important;
+    background-color: #428BCA !important;
+}
+
+#button-group-admin	{
+	
+	margin: .5%;
+	border: 3px solid #428BCA !important;
+	height: 55px !important;
+	width: 150px !important;
+	background: transparent !important;
+	color: #428BCA;
+	font-weight: bold;
+	font-size: 110%;
+	z-index: 100 !important;
+	float: right !important;
+}
+
+#button-group-admin {
+	font-weight: normal !important;
+    letter-spacing: 1px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+#button-group-admin:hover {
+    opacity: .80 !important;
+    color: #fff !important;
+    background-color: #428BCA !important;
+}
+
+#button-group-property, 
+#button-group-property a:active, 
+#button-group-property a:link, 
+#button-group-property a:visited	{
+	
+	margin: .5%;
+	border: 3px solid #428BCA !important;
+	height: 55px !important;
+	width: 150px !important;
+	background: transparent !important;
+	color: #428BCA !important;
+	font-weight: bold;
+	font-size: 110%;
+	z-index: 100 !important;
+	float: right !important;
+}
+
+#button-group-property {
+	font-weight: normal !important;
+    letter-spacing: 1px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+#button-group-property:hover {
+    opacity: .80 !important;
+    color: #fff !important;
+    background-color: #428BCA !important;
+}
 
 
 

@@ -1,5 +1,3 @@
-
-
 <?php
 
 
@@ -52,7 +50,7 @@
 		
 			try {
 				
-				$sql = "SELECT contact_id, first_name, last_name, email, phone, street, city, state, zip_code, comment, created_at FROM contact ORDER BY contact_id ASC";
+				$sql = "SELECT contact_id, first_name, last_name, email, comment, created_at FROM contact ORDER BY contact_id DESC";
 				
 				$result = $this->conn->query($sql);
 				

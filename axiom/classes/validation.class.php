@@ -103,13 +103,13 @@ class Validation {
 	
 	public function checked($var, $field_name) {
 	
-		if($var = "checked") {
+		if($var = "checkeds") {
 		
 			return "Select a property to delete. " . $var;
 		
 		} else {
 		
-			return false;
+			return $var;
 		
 		}
 		
@@ -164,15 +164,29 @@ class Validation {
 	
 	public function valid_user($var1, $var2, $min_length = 8, $field_name1, $field_name2) {
 	
-		$sql = "SELECT * FROM administration WHERE username = '$var1'";
+		 try {
+	
+			$sql = "SELECT * FROM administration WHERE username = '$var1'";
 				
-		$result = $this->conn->query($sql);
+			$result = $this->conn->query($sql);
 		
-		$item = $result->fetch(PDO::FETCH_OBJ);
+			$item = $result->fetch(PDO::FETCH_OBJ);
 		
-		$encrypt = sha1($var2);
+			$encrypt = sha1($var2);
 		
-		$user = $item->first_name;
+			$user = $item->first_name;
+			
+		}
+			
+			// Catch Errors
+			
+		catch (PDOException $error) {
+				
+			echo "Unable to retrieve record(s): " . $error->getMessage();
+					
+			exit();
+					
+		}
 		
 	
 		if(strlen($var1) < $min_length || strlen($var2) < $min_length) {
@@ -194,19 +208,15 @@ class Validation {
 
 		} else {
 
-			$_SESSION['views'] = "";
+			$_SESSION['views'] = "loggedout";
 
 		}
-					
-			
+	
 	}
 	
-	
-
 } // End of Class
 
 ?>
-
 
 
 

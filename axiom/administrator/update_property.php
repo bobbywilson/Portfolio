@@ -1,7 +1,12 @@
-
 <?php
 
 session_start();
+
+if ((isset($_SESSION['views']) && $_SESSION['views'] == "loggedout" || $_SESSION['views'] == "")) {
+	
+	header('Location: ../includes/login_error_display.php');
+	
+}
 
 include("../config.php");
 
@@ -72,9 +77,9 @@ if(isset($_POST["submit"])) {
 			
 				$errors[] = $rule;
 			
-			}
-		
 		}
+		
+	}
 	
 	
 
@@ -188,19 +193,19 @@ if(isset($_POST["submit"])) {
 	
 	include("../includes/header.php");
 
+		if(!isset($errors) || count($errors) != 0) {
+	
+		
+			include("../includes/update_property_form.php");
+		
+		
+		} else {
+	
+	
+		include("../includes/update_display.php");
 
-	if(!isset($errors) || count($errors) != 0) {
-	
-		
-		include("../includes/update_property_form.php");
-		
-		
-	} else {
-	
-	
-	include("../includes/update_display.php");
+		}	
 
-	}	
 	
 	echo "\t" . "\t" . '</div>';
 	echo "\t" . '</div>';
@@ -212,11 +217,7 @@ if(isset($_POST["submit"])) {
 		
 		
 ?>
- 
 
- 
- 
- 
  
  
  

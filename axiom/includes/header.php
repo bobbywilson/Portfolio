@@ -1,7 +1,8 @@
-
 <?php
 
+session_start();
 
+	
 	function page_title($page="") {
 	
 		$title = constant("BUSINESS_NAME");
@@ -34,9 +35,7 @@
 		}
 		
 	}
-	
-	
-
+			
 ?>
 
 <!DOCTYPE html>
@@ -48,18 +47,42 @@
 	<title><?php echo page_title($page); ?></title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<meta http-equiv="cache-control" content="max-age=0">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
+	<meta http-equiv="pragma" content="no-cache">
+
+
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	
 	<script src="https://maps.googleapis.com/maps/api/js"></script>
 	
 	<link rel="stylesheet" href="<?php echo ABSOLUTE_PATH . 'assets/css/index.css'?>">
 	<link rel="stylesheet" href="<?php echo ABSOLUTE_PATH . 'assets/css/responsive.css'?>">
 	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	
 	<?php $js = URL_ROOT . "assets/js/javascript.js"; ?>
 	
-	<script>
+
+	<?php
+
+		if(isset($js)) {
+			echo '<script src="' . $js . '">' . '</script>';
+		}
+		
+		// if(isset($noback)) {
+// 			echo '<script src="' . $noback . '">' . '</script>';
+// 		}
+	
+	
+	?>
+
+	<script type="text/javascript"> 
+	
 	
 	function loadRentBuy()	{var xmlhttp; if (window.XMLHttpRequest){xmlhttp=new XMLHttpRequest();} else	
 	{xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}xmlhttp.onreadystatechange=function()	{
@@ -145,25 +168,14 @@
   	if (xmlhttp.readyState==4 && xmlhttp.status == 200)	{document.getElementById("resources").innerHTML=xmlhttp.responseText;}}
 	xmlhttp.open("GET","<?php echo ABSOLUTE_PATH . 'assets/ajax/client/client_resources/contact_us.txt'?>",true);xmlhttp.send();}
 	
-</script>
 
-<?php
-
-	if(isset($js)) {
-	
-		echo '<script src="' . $js . '">' . '</script>';
-	
-	
-	}
-	
-?>
+	</script>
 	
 </head>
 
-<body>
-	
+<body onload="window.setTimeout('TimeoutRedirect()', 1000000);" onload="noBack();" onpageshow="if (event.persisted) noBack();" onunload="noBack();">
 
-	<nav class="navbar navbar-inverse" id="navbar-wrapper">
+	<nav class="navbar navbar-inverse" id="navbar-wrapper" style="border-bottom: 12px solid #000;">
   		<div class="container-fluid">
     		<div class="navbar-header">
       			<a class="navbar-brand" href="<?php echo ABSOLUTE_PATH . "index.php"?>"><span class="glyphicon glyphicon-home" <?php echo $home_icon; ?> ></span></a>
@@ -228,24 +240,42 @@
           				</ul>
           			</li>
         			<li <?php echo $contact_status; ?>><a href="<?php echo ABSOLUTE_PATH . "contact/index.php"?>">Contact Us</a></li>
+      			
+      				<?php
+      					
+      					if ((isset($_SESSION['views']) && $_SESSION['views'] != "loggedout")) {
+      						echo '<li><a type="logout" name="logout" id="logout" href="' . ABSOLUTE_PATH . 'administrator/index.php">Admin Menu</a></li>';
+      					}
+      				?>
+      			
       			</ul>
       			
+      			<form method="POST" role="form-inline">
       			<ul class="nav navbar-nav navbar-right" id="header-contact">
-      				<li><a href="<?php echo ABSOLUTE_PATH . "contact/index.php"?>"><?php echo constant("BUSINESS_PHONE"); ?></a></li>
+      				<li><?php echo $return_valid; ?> <a href="<?php echo ABSOLUTE_PATH . "contact/index.php"?>"><?php echo constant("BUSINESS_PHONE"); ?></a></li>
       				<li><a href="<?php echo ABSOLUTE_PATH . "contact/index.php"?>"><?php echo constant("BUSINESS_FAX"); ?></a></li>
-      				<li><a href="<?php echo ABSOLUTE_PATH . "administrator/index.php"?>"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
       				
+      				<?php
+      					
+      					if ((isset($_SESSION['views']) && $_SESSION['views'] != "loggedout")) {
+      						echo '<li><a type="logout" name="logout" id="logout" href="' . ABSOLUTE_PATH . 'administrator/logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>';
+      					} else {
+      						echo '<li><a href="' . ABSOLUTE_PATH . 'administrator/index.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';
+      					}
+      				?>
       		
       			</ul>
+      			</form>
+      			
     		</div>
     		
   		</div>
   		
-  		<div class="navbar-header" id="navbar-header">
+  		<div class="navbar-header navbar-header-mobile" id="navbar-header-mobile">
     
     			<ul class="nav navbar-nav">
     	
-    				<li><a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>"><span class="glyphicon glyphicon-align-justify" id="align-justify" ></span></a>
+    				<li><a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>"><i class="fa fa-bars fa-lg"></i></span></a>
         				<ul class="dropdown-menu" id="iphone-menu">
             				
         					<li class="dropdown" id="dropdown"><a href="<?php echo ABSOLUTE_PATH . "about/index.php"?>"><span class="glyphicon glyphicon-question-sign"></span> About Us</a></li>
@@ -284,10 +314,25 @@
            					<li class="dropdown" id="dropdown"><a href="<?php echo ABSOLUTE_PATH . "management/facts_questions.php"?>"><span class="glyphicon glyphicon-question-sign"></span> Read Client FAQ</a></li>
            					<li role="presentation" class="divider" id="divider"></li>
            					<li class="dropdown" id="dropdown"><a href="<?php echo ABSOLUTE_PATH . "contact/index.php"?>"><span class="glyphicon glyphicon-envelope"></span> Contact Us</a></li>
+           					<span class="not-showing"><li role="presentation" class="divider" id="divider"></li>
+           					<li class="dropdown" id="dropdown"><a href="<?php echo ABSOLUTE_PATH . "administrator/index.php"?>"><span class="glyphicon glyphicon-log-in"></span> Login</a></li></span>
            					<li role="presentation" class="divider" id="divider"></li>
-           					<li class="dropdown" id="dropdown"><a href="<?php echo ABSOLUTE_PATH . "administrator/index.php"?>"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-           					<li role="presentation" class="divider" id="divider"></li>
+           					<?php
+      					
+      							if ((isset($_SESSION['views']) && $_SESSION['views'] != "loggedout")) {
+      								echo '<li><a type="logout" name="logout" id="logout" href="' . ABSOLUTE_PATH . 'administrator/index.php">Admin Menu</a></li>';
+      								echo '<li role="presentation" class="divider" id="divider"></li>';
+      							}
+      						?>
            					
+           					<?php
+      					
+      							if ((isset($_SESSION['views']) && $_SESSION['views'] != "loggedout")) {
+      								echo '<li><a type="logout" name="logout" id="logout" href="' . ABSOLUTE_PATH . 'administrator/logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>';
+      							} else {
+      								echo '<li><a href="' . ABSOLUTE_PATH . 'administrator/index.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>';
+      							}
+      						?>
            					
           			</ul>
           		</li>
@@ -298,8 +343,8 @@
 	
 	<nav class="navbar navbar-inverse" id="logo-wrapper">
   		<div class="container-fluid">
-    		<div class="navbar-header">
-      			<a class="navbar-brand" href="<?php echo ABSOLUTE_PATH . "index.php"?>"><img src="<?php echo ABSOLUTE_PATH . 'assets/images/id5.jpg'?>" alt="" id="logo"></a>
+    		<div class="navbar-header logo">
+      			<a class="navbar-brand" href="<?php echo ABSOLUTE_PATH . "index.php"?>"><img class="img-responsive" src="<?php echo ABSOLUTE_PATH . 'assets/images/id5.jpg'?>" alt="" id=""></a>
     		</div>
   		</div>
 	</nav>

@@ -9,6 +9,8 @@
 		echo "\t" . "\t" . '<div class="jumbotron" id="nested">';
 		
    		echo '<h2>' . $page . '</h2>';
+   		
+   		echo '<h3 class="text-info"> Property Id ' . $property_id . ' has been deleted. </h3> </br>';
    	
 		include("menu_buttons.php");
     

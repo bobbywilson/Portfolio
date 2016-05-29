@@ -1,7 +1,12 @@
-
 <?php
 
 session_start();
+
+if ((isset($_SESSION['views']) && $_SESSION['views'] == "loggedout" || $_SESSION['views'] == "")) {
+	
+	header('Location: ../includes/login_error_display.php');
+	
+}
 
 include("../config.php");
 
@@ -81,20 +86,20 @@ if(isset($_POST["submit"])) {
 	
 	include("../includes/header.php");
 	
+		if(!isset($errors) || count($errors) != 0) {
 	
-	if(!isset($errors) || count($errors) != 0) {
-	
-		include("../includes/registration_form.php");
+			include("../includes/registration_form.php");
 		
 		
-	} else {
+		} else {
 	
 	
 		
-	include("../includes/registration_display.php");
+		include("../includes/registration_display.php");
 		
 		
-	}	
+		}
+
 	
 	echo "\t" . "\t" . '</div>';
 	echo "\t" . '</div>';

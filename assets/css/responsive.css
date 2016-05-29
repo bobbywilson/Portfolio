@@ -1,0 +1,690 @@
+@media screen and (max-width:1240px) {
+	
+	a {
+		color: #000 !important;
+	}
+	
+	.fa-5x-html5 {
+		font-size: 1100% !important;
+	}
+	
+	
+	.fa-5x-css3 {
+		font-size: 1100% !important;
+		margin-left: -1px !important;
+	}
+	
+	.fa-5x-js {
+		width: 133px !important;
+	}
+	
+	.code-logo {
+		min-width: 100px !important;
+	}
+	
+	.code-logo-icon {
+		min-width: 100px !important;
+	}
+	
+	.code-logo-heading {
+		min-width: 100px !important;
+	}
+	
+	.jumbotron-home {
+		width: 95% !important;
+	}
+	
+	.confirmation-box {
+		width: 100% !important;
+	}
+	
+	.body-sub-font {
+		text-align: center !important;
+	}
+	
+}
+
+
+
+
+@media screen and (max-width:768px) {
+
+	h3	{
+		text-align: center !important;
+	}
+	
+	h4	{
+		text-align: center !important;
+	}
+
+	.mobile-heading	{
+		text-align: center !important;
+	}
+
+	#nav-buttons	{
+		display: none;
+	}
+	
+	
+	.mobile-dropdown {
+		background-color: #eff0f2 !important;
+		display: inline-block !important;
+		position: absolute;
+		top: 10px !important;
+		right: 20px !important;
+	}
+	
+	.mobile-toggle {
+		margin-right: -12px !important;
+		background-color: #eff0f2 !important;
+		border: 0px solid #333;
+		box-shadow: 0px 0px 0px #eff0f2 !important;
+	}
+	
+	.mobile-dropdown-menu {
+		position: absolute;
+		top: 50px !important;
+		right: -21px !important;
+		background-color: #eff0f2 !important;
+		border: 0px solid #333;
+		border-radius: 0px !important;
+		border-bottom-left-radius: 5px !important;
+		width: 300px !important;
+	}
+	
+	
+	#hidden	{
+		display: inline !important;
+	}
+	
+	
+	.navbar-brand	{
+		font-size: 90% !important;
+		
+	}
+	
+	
+	.social-box	{
+		margin-left: auto !important;
+		margin-right: auto !important;
+		border: 1px solid #333;
+	}
+	
+	#github-button	{
+		margin-left: 1%;
+		border: 2px solid #428BCA;
+		border-radius: 5px;
+		width: 100px;
+		padding: 2px;
+	}
+
+	#linkedin-button	{
+		margin-top: -32px;
+		margin-left: 120px !important;
+		border: 2px solid #428BCA;
+		border-radius: 5px;
+		width: 100px;
+		padding: 2px;
+	}
+	
+	#text-center	{
+		font-size: 90% !important;
+	}
+	
+	#normal-justify-text	{
+		font-size: 115% !important;
+		text-align: center !important;
+	}
+	
+	#main	{
+		width: 96% !important;
+		height: 100% !important;
+		padding: 0 !important;
+	}
+	
+	.about-main {
+		background-color: #FFF;
+		width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	
+	#nested-home	{
+		border: 0px solid #333 !important;
+		width: 100% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		padding: 0 !important;
+		
+	}
+	
+	#text-right	{
+		font-size: 105% !important;
+		float: none !important;
+	}
+	
+	#comment	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#state	{
+		width: 120% !important;
+		margin-left: -12% !important;
+	}
+	
+	#state_label	{
+		margin-left: -12% !important;
+	}
+	
+	#zip_code	{
+		width: 115% !important;
+		margin-left: -4% !important;
+	}
+	
+	#city	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#street	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#phone-prefix-dash	{
+		display: none !important;
+	}
+	
+	#phone-suffix-dash	{
+		display: none !important;
+	}
+	
+	.control-label	{
+		margin-left: -5% !important;
+	}
+	
+	#area_code	{
+		width: 150% !important;
+		margin-left: -30% !important;
+	}
+	
+	#phone_prefix	{
+		width: 150% !important;
+		
+		margin-left: -63% !important;
+	}
+	
+	#phone_suffix	{
+		width: 167% !important;
+		margin-top: -38%;
+		margin-left: -20% !important;
+	}
+	
+	#phone_label	{
+		margin-left: -25% !important;
+	}
+	
+	#email	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#first_name	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#last_name	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	
+	#submit	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#mobile-center	{
+		text-align: center !important;
+	}
+	
+	select	{
+		text-indent: 0 !important;
+	}
+	
+
+	#jumbotron-about {
+		padding-top: 15% !important;
+	}
+	
+	.resume-job-description	{
+		width: 100% !important;
+	}
+	
+	.mobile	{
+		display: inline !important;
+	}
+	
+	.mobile-nav-return	{
+		display: block !important;
+	}
+	
+	.hero-text	{
+		top: 160px !important;
+		width: 55%; 
+	}
+	
+	#jumbotron-carousel	{
+		border: 0px solid #00a3e3;
+		background-color: #00a3e3;
+		width: 85%;
+		height: 300px;
+		margin-top: -40px !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#carousel-wrapper	{
+		position: auto;
+		left: 0px !important;
+		right: 0px !important;
+		padding-bottom: 10%;
+		background-color: #00a3e3!important;
+		width: 100%;
+		border: 4px solid #00a3e3;
+	}
+	
+	.logo-img-self	{
+		position: absolute;
+		top: 5px;
+		left: 20px;
+		height: 50px !important;
+		width: auto !important;
+		border: 2px solid #000;
+		z-index: -1 !important;
+	}
+	
+	.navbar-brand-text	{
+		position: relative;
+		top: 14px;
+		left: -20px !important;
+		padding: 2%;
+		border: 0px solid #333;
+		width: 150px;
+		height: 60px;		
+	}
+	
+	
+	.active-heading	{
+		border-bottom: 0px solid #333; !important;
+	}
+	
+	.pull-up {
+		margin-top: -55px !important;
+	}
+	
+	.mobile-text-left {
+		text-align: left !important;
+	}
+	
+	.body-sub-font {
+		text-align: center !important;
+	}
+	
+	#map-canvas	{
+		display: none !important;
+	}
+	
+	
+	.jumbotron-mobile {
+		width: 100% !important;
+		padding: 0px !important;
+	}
+	
+	.social-nav-buttons	{
+		display: inline !important;
+		width: 100% !important;
+	}
+	
+	
+	.navbar-footer	{
+		display: inline !important;
+		width: 100% !important;
+	}
+	
+	#footer-container	{
+		margin-top: 30px !important;
+	}
+	
+	.icon-color {
+		padding: 5px !important;
+	}
+	
+	.code-logo-home {
+		padding-left: 27px !important;
+		padding-right: 27px !important;
+	}
+	
+	.code-logo-home-404 {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	
+	.body-font {
+		text-align: center;
+	}
+	
+	.hidden-error {
+		margin-left: -29px !important;
+	}
+	
+		.navbar-header {
+		opacity: 0.80 !important;
+		width: 200px;
+		height: 40px !important;
+		margin-top: -10px;
+		margin-left: 30px !important;
+		padding: 10px !important;
+	}
+	
+	.screenshot-box {
+		margin-left: -15px;
+	}
+	
+	.screenshot-box-404 {
+		width: 100% !important;
+	}
+}
+
+@media screen and (max-width: 500px) {
+
+	h3	{
+		text-align: center !important;
+	}
+	
+	h4	{
+		text-align: center !important;
+	}
+
+	.mobile-heading	{
+		text-align: center !important;
+	}
+
+	#nav-buttons	{
+		display: none;
+	}
+	
+	#hidden	{
+		display: inline !important;
+	}
+	
+	
+	.navbar-brand	{
+		font-size: 90% !important;
+		padding-right: 5% !important;
+		padding-left: 5% !important;
+	}
+	
+	.social-box	{
+		margin-left: auto !important;
+		margin-right: auto !important;
+		border: 1px solid #333;
+	}
+	
+	#github-button	{
+		margin-left: 1%;
+		border: 2px solid #428BCA;
+		border-radius: 5px;
+		width: 100px;
+		padding: 2px;
+	}
+
+	#linkedin-button	{
+		margin-top: -32px;
+		margin-left: 120px !important;
+		border: 2px solid #428BCA;
+		border-radius: 5px;
+		width: 100px;
+		padding: 2px;
+	}
+	
+	#text-center	{
+		font-size: 90% !important;
+	}
+	
+	#normal-justify-text	{
+		font-size: 115% !important;
+		text-align: center !important;
+	}
+	
+	#main	{
+		width: 100% !important;
+		height: 100% !important;
+		padding: 0 !important;
+	}
+	
+	.about-main {
+		background-color: #FFF;
+		width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	
+	#nested-contact	{
+		border: 0px solid #333 !important;
+		width: 100% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		padding: 0 !important;
+		padding-top: 10% !important;
+	}
+	
+	
+	#text-right	{
+		font-size: 105% !important;
+		float: none !important;
+	}
+	
+	#comment	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#state	{
+		width: 120% !important;
+		margin-left: -12% !important;
+	}
+	
+	#state_label	{
+		margin-left: -12% !important;
+	}
+	
+	#zip_code	{
+		width: 115% !important;
+		margin-left: -4% !important;
+	}
+	
+	#city	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#street	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#phone-prefix-dash	{
+		display: none !important;
+	}
+	
+	#phone-suffix-dash	{
+		display: none !important;
+	}
+	
+	.control-label	{
+		margin-left: -5% !important;
+	}
+	
+	#area_code	{
+		width: 150% !important;
+		margin-left: -30% !important;
+	}
+	
+	#phone_prefix	{
+		width: 150% !important;
+		
+		margin-left: -63% !important;
+	}
+	
+	#phone_suffix	{
+		width: 167% !important;
+		margin-top: -38%;
+		margin-left: -20% !important;
+	}
+	
+	#phone_label	{
+		margin-left: -25% !important;
+	}
+	
+	#email	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#first_name	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	#last_name	{
+		width: 110% !important;
+		margin-left: -5% !important;
+	}
+	
+	
+	#submit	{
+		width: 110% !important;
+		margin-top: 15px;
+		margin-left: -5% !important;
+	}
+	
+	#mobile-center	{
+		text-align: center !important;
+	}
+	
+	select	{
+		text-indent: 0 !important;
+	}
+	
+	#map-canvas	{
+		display: none !important;
+	}
+	
+	#jumbotron-about {
+		padding-top: 45% !important;
+	}
+	
+	.resume-job-description	{
+		width: 100% !important;
+	
+	}
+	
+	.mobile	{
+		display: inline !important;
+	}
+	
+	.hero-text	{
+		top: 100px !important;
+		width: 75%; 
+	}
+	
+	#jumbotron-carousel	{
+		border: 0px solid #00a3e3;
+		background-color: #00a3e3;
+		width: 85%;
+		margin-top: -40px !important;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#carousel-wrapper	{
+		position: auto;
+		left: 0px !important;
+		right: 0px !important;
+		
+		padding-bottom: 10%;
+		background-color: #00a3e3 !important;
+		width: 100%;
+		border: 4px solid #00a3e3;
+	}
+	
+	
+	.jumbotron-home {
+		width: 100% !important;
+	}
+	
+	.social-nav-buttons	{
+		display: inline-block !important;
+		width: 100% !important;
+	}
+	
+	.navbar-footer	{
+		display: inline-block !important;
+		width: 100% !important;
+	}
+	
+	.icon-color {
+		padding: 5px !important;
+	}
+	
+	#footer-container	{
+		margin-top: 30px !important;
+	}
+	
+	.navbar-brand-text	{
+		left: -10px !important;	
+	}
+	
+	.hidden-error {
+		margin-left: -15px !important;
+	}
+	
+	.navbar-header {
+		opacity: 0.80 !important;
+		width: 200px;
+		height: 40px !important;
+		margin-top: -10px;
+		margin-left: 20px !important;
+		padding: 10px !important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-
 <?php
 	
 	include("../config.php");
@@ -31,14 +30,14 @@
   						<button type="button" class="btn btn-default" id="button-group-client" onclick="loadManagement()">Management</button>
   						<button type="button" class="btn btn-default" id="button-group-client" onclick="loadContact()">Contact Us</button>
   						
-					</div>
+				</div>
   					
   					</br></br>
   					
   					<div class="jumbotron" id="resources">
   					
   					
-  					<p class="text-justify" class="text-muted">Select one of the articles listed to the left for helpful hints and timely topics related to real estate. No matter whether you're buying, selling or renting there's an article here for you.  We hope you find them very informative.</p></br>
+  					<p class="text-justify" class="text-muted">Select one of the articles listed above for helpful hints and timely topics related to real estate. No matter whether you're buying, selling or renting there's an article here for you.  We hope you find them very informative.</p></br>
    
   					</div>
   					

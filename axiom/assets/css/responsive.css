@@ -1,33 +1,132 @@
-
 @media screen and (max-width: 1334px) {
 
 	
-	#logo	{
+	
+}
 
-	width: 90%;
 
+
+@media screen and (max-width: 1255px) {
+
+	#header-contact	{
+	
+		visibility: hidden !important;
+	}
+	
+	.divider {
+		background-color: #fff !important;
 	}
 	
 }
 
 
-@media screen and (max-width: 1106px) {
 
+@media screen and (max-width: 1175px) {
+
+	#header-buttons	{
+		visibility: hidden !important;
+	}
+	
+	.navbar-header-mobile	{
+		position: relative;
+		top: -98px !important;
+		right: 0px !important;
+		width: 50px !important;
+		visibility: visible !important;
+		border: 0px solid #c00;
+		list-style: none !important;
+		float: right !important;
+	}
+	
+
+	#navbar-wrapper	{
+		position: absolute;
+		top: 0px !important;
+		right: 0px !important;
+		width: 100% !important;
+	}
+	
+	.mobile-menu{
+	
+		width: 50px !important;
+	}
+	
+	#logo-wrapper	{
+		top: 42px !important;
+		right: 0px !important;
+		height: 90px !important;
+		position: absolute;
+		width: 100% !important;
+	}
+	
+	#iphone-menu	{
+		position: relative;
+		top: 0px !important;
+		left: -301px !important;
+		margin-bottom: 100px !important;
+		width: 352px !important;
+		border-top-left-radius: 0px;
+		border-bottom-right-radius: 0px;
+		background-color: #000 !important;
+		opacity: 0.9;
+	}
+	
+	#iphone-menu a:hover	{
+		background-color: #000 !important;
+		font-weight: bold;
+	}
+	
+	
+	.dropdown	{
+		height: 25px;
+		padding: 0px !important;
+		background-color: #000 !important;
+	}
+	
+	.not-showing {
+		visibility: hidden !important;
+	}
+	
+}
+
+
+
+@media screen and (max-width: 768px) {
+	
+	p {
+		text-align: center !important;
+	}
+	
 	#header-buttons	{
 	
 		visibility: hidden !important;
 	
 	}
 	
-	#navbar-header	{
-		position: absolute;
-		top: -4% !important;
-		right: 0% !important;
+	.logo {
+		border: 0px solid #c00;
+		margin-left: auto !important;
+		margin-right: auto !important;
+		width: 200px !important;
+	}
+	
+	.navbar-header-mobile	{
+		position: relative;
+		top: -437px !important;
+		right: 15px !important;
+		width: 20px !important;
+		height: 50px !important;
 		visibility: visible !important;
-		border: 0px solid #FFF;
+		border: 0px solid #c00;
+		list-style: none !important;
+		float: right !important;
+	}
+	
+	
+	.fa fa-bars fa-lg {
+		font-size: 10px !important;
 	}
 
-	
 	#navbar-wrapper	{
 		position: absolute;
 		top: 0px !important;
@@ -38,38 +137,16 @@
 	#logo-wrapper	{
 		top: 42px !important;
 		right: 0px !important;
-		height: 12% !important;
+		height: 90px !important;
 		position: absolute;
 		width: 100% !important;
 	}
 	
-	
-	#nested	{
-		width: 100%;
-	
-	}
-	
-	#nested-contact	{
-		width: 100%;
-		margin-left: auto;
-		margin-right: auto;
-		border: 0px solid #333;
-		border-radius: 5px;
-
-	}
-	
-	#carousel	{
-		margin-top: 52px;
-		width: 100% !important;
-		right: 0px !important;
-		width: 100% !important;
-	}
-	
 	#iphone-menu	{
-		margin-top: -5px;
-		margin-left: -300px !important;
-		margin-bottom: 100px !important;
-		width: 352px;
+		position: relative;
+		top: 4px !important;
+		left: -251px !important;
+		width: 302px !important;
 		border-top-left-radius: 0px;
 		background-color: #000 !important;
 		opacity: 0.9;
@@ -80,11 +157,6 @@
 		font-weight: bold;
 	}
 	
-	#align-justify	{
-		margin-top: 5px;
-		text-align: center;
-		width: 20px;
-	}
 	
 	.dropdown	{
 		height: 25px;
@@ -92,139 +164,9 @@
 		background-color: #000 !important;
 	}
 	
-	#button-top	{
-		visibility: hidden !important;
-	
-	}
-	
-	#client-errors-box	{
-	
-		font-size: 110% !important;
-	
-	}
-
-}
-
-@media screen and (max-width: 767px) {
-
-	#navbar-header	{
-		width: 20px;
-		position: absolute;
-		top: -10% !important;
-		right: 2% !important;
-		visibility: visible !important;
-		border: 0px solid #FFF;
-	}
-	
-	#navbar-wrapper	{
-		margin-right: 0px !important;
-		position: absolute;
-		top: 0px !important;
-		right: 0px !important;
-		width: 100% !important;
-	}
-	
-	#logo-wrapper	{
-		top: 42px !important;
-		right: 0px !important;
-		height: 12% !important;
-		position: absolute;
-		width: 100% !important;
-	}
-	
-	#carousel	{
-		margin-top: 52px;
-		width: 100% !important;
-		right: 0px !important;
-		width: 100% !important;
-	}
-
-	#iphone-menu	{
-		margin-top: 0px;
-		margin-right: 1% !important;
-		margin-bottom: 100px !important;
-		width: 351px;
-		border-top-left-radius: 0px;
-		background-color: #000 !important;
-		opacity: 0.9;
-	}
-	
-	
-	#align-justify	{
-		margin-top: 5px;
-		text-align: center;
-	}
-	
-	#divider	{
-		border-bottom: 1px solid #FFF !important;
-	}
-	
-}
-
-@media screen and (max-width: 480px) {
-
-	#carousel	{
-		margin-top: 127px;
-		width: 100% !important;
-		right: 0% !important;
-	}
-
-	#navbar-header	{
-		width: 20px;
-		top: -16% !important;
-		right: 5% !important;
-		visibility: visible !important;
-		border: 0px solid #FFF;
-	}
-	
-	
-	#iphone-menu	{
-		margin-top: 0px;
-		margin-left: -270px !important;
-		margin-bottom: 100px !important;
-		width: 321px;
-		border-top-left-radius: 0px;
-		background-color: #000 !important;
-		opacity: 0.9;
-	}
-	
-	
-	#align-justify	{
-		height: 25px;
-		margin-top: 5px;
-		text-align: center;
-	}
-
-	#logo-wrapper	{
-		top: 50px !important;
-		height: 80px !important;
-		right: 0px !important;
-		width: 100% !important;
-	}
-	
-	#navbar-wrapper	{
-		position: absolute;
-		top: 0px !important;
-		right: 0px !important;
-		width: 110% !important;
-	}
-	
-	#footer-container	{
-	
-		width: 100% !important;
-		right: 0% !important;
-	
-	}
-	
-	#navbar-footer-wrapper	{
-	
-		width: 100% !important;
-		right: 0% !important;
-	
-	}
 	
 	#nested	{
-		width: 110%;
+		width: 100%;
 	
 	}
 	
@@ -237,24 +179,125 @@
 
 	}
 	
-	#phone-prefix-dash		{
-	
-		visibility: hidden;
-	}
-
-	#phone-suffix-dash		{
-
-		visibility: hidden;
+	#carousel	{
+		margin-top: 132px;
+		width: 100% !important;
+		right: 0px !important;
 	}
 	
+	
+	#button-top	{
+		display: none !important;
+	
+	}
+	
+	.button-bottom	{
+		margin-bottom: 50px !important;
+		width: 100% !important;
+	}
+	
+	.button-bottom a:active, a:visited, a:link	{
+		color: #fff !important;
+	}
+	
+	#client-errors-box	{
+	
+		font-size: 110% !important;
+	
+	}
+	
+	
+	.jumbotron {
+		padding: 5px !important;
+		width: 100% !important;
+	}
+	
+	.jumbotron h1, h2, h3, h4, h5, h6 {
+		text-align: center !important;
+	}
+	
+	#row-left {
+		margin-bottom: 10px !important;
+		width: 100% !important;
+	}
+	
+	#row-right {
+		margin-bottom: 10px !important;
+		width: 100% !important;
+	}
+	
+	#panel-default-credit {
+		width: 100% !important;
+	}
+	
+	#panel-default {
+		width: 100% !important;
+	}
+	
+	#navbar-footer-wrapper p {
+		font-size: 90% !important;
+	}
+	
+	.eho-img {
+		height: 25px !important;
+		width: auto !important;
+	}
+	
+	.row-login {
+		width: 100% !important;
+	}
 
+	.row-register {
+		width: 100% !important;
+	}
+	
+	.not-showing {
+		visibility: hidden !important;
+	}
+
+	#map-canvas	{
+		display: none !important;
+	}
+	
+	.phone-numbers-col {
+	 	display: none !important;
+	 }
+	 
+	 
+	 .jumbotron a {
+	 	color: #333 !important;
+	 }
+	 
+	 
+	 #normal-justify-text {
+	 	text-align: center !important;
+	 }
+	 
 }
 
+	
+	
 
+@media screen and (max-width: 500px) {
 
-
-
-
+	#map-canvas	{
+		display: none !important;
+	}
+	
+	
+	 .jumbotron a {
+	 	color: #333 !important;
+	 }
+	 
+	 .phone-numbers-col {
+	 	display: none !important;
+	 }
+	 
+	 #normal-justify-text {
+	 	text-align: center !important;
+	 }
+	 
+}
 
 
 

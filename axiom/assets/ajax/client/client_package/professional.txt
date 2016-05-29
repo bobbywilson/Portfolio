@@ -1,10 +1,10 @@
-<h2>Professional Management</h2></br>
+<h2>Professional Management</h2><br />
 			
-			<p class="text-justify" class="text-muted">Property managers collect rents, deal with resident issues, periodically inspect the property and personally supervise the home. The manager provides an "arms length" relationship between owner and resident.</br></br>
+			<p class="text-justify text-muted">Property managers collect rents, deal with resident issues, periodically inspect the property and personally supervise the home. The manager provides an "arms length" relationship between owner and resident.<br /><br />
 			
-By maintaining excellent relations with our residents and diligently caring for your property, we avoid most potential problems. Residents are informed of their responsibilities regarding your property and their contracts. We will quickly and professionally settle any problems that may arise, with our clients' interest in mind.</br></br>
+By maintaining excellent relations with our residents and diligently caring for your property, we avoid most potential problems. Residents are informed of their responsibilities regarding your property and their contracts. We will quickly and professionally settle any problems that may arise, with our clients' interest in mind.<br /><br />
 
-If there is a problem, whether it is collecting rents or settling resident disputes, we will handle the situation appropriately. We are knowledgeable in the State Uniform Owner-Resident Relations Act and all the legal and contractual relationships involved in renting property. If necessary, we are prepared to make a court appearance.</br></br>
+If there is a problem, whether it is collecting rents or settling resident disputes, we will handle the situation appropriately. We are knowledgeable in the State Uniform Owner-Resident Relations Act and all the legal and contractual relationships involved in renting property. If necessary, we are prepared to make a court appearance.<br /><br />
 
 We utilize quality control procedures and proven business practices in the management of your home. In addition to the routine management of your home we are on call 24 hours a day 365 days a year. </p>
 			
@@ -14,27 +14,27 @@ We utilize quality control procedures and proven business practices in the manag
 			
 			<div class="row">
   				<div class="col-md-3" id="row-left">
-    				<p class="text-justify" class="text-muted">
-						<span class="glyphicon glyphicon-check"></span> Collect all Rents</br>
-						<span class="glyphicon glyphicon-check"></span> Late Notices</br>
-						<span class="glyphicon glyphicon-check"></span> Renovation Work</br>
-						<span class="glyphicon glyphicon-check"></span> Early Terminations</br>
-						<span class="glyphicon glyphicon-check"></span> Monthly Accounting</br>
-						<span class="glyphicon glyphicon-check"></span> 24-Hour Emergency Maintenance</br>
-						<span class="glyphicon glyphicon-check"></span> Bounced Checks</br>
+    				<p class="text-justify text-muted">
+						<span class="glyphicon glyphicon-check"></span> Collect all Rents<br />
+						<span class="glyphicon glyphicon-check"></span> Late Notices<br />
+						<span class="glyphicon glyphicon-check"></span> Renovation Work<br />
+						<span class="glyphicon glyphicon-check"></span> Early Terminations<br />
+						<span class="glyphicon glyphicon-check"></span> Monthly Accounting<br />
+						<span class="glyphicon glyphicon-check"></span> 24-Hour Emergency Maintenance<br />
+						<span class="glyphicon glyphicon-check"></span> Bounced Checks<br />
 					</p>
   				</div>
   				
   
   				<div class="col-md-3" id="row-right"> 
-    				<p class="text-justify" class="text-muted">
-    					<span class="glyphicon glyphicon-check"></span> Routine Maintenance</br>
-						<span class="glyphicon glyphicon-check"></span> Unauthorized Pets</br>
-						<span class="glyphicon glyphicon-check"></span> All Charges Verified</br>
-						<span class="glyphicon glyphicon-check"></span> Regular Inspections</br>
-						<span class="glyphicon glyphicon-check"></span> Move-Out Inspections</br>
-						<span class="glyphicon glyphicon-check"></span> Evictions</br>
-						<span class="glyphicon glyphicon-check"></span> Neighbor Complaints</br>
+    				<p class="text-justify text-muted">
+    					<span class="glyphicon glyphicon-check"></span> Routine Maintenance<br />
+						<span class="glyphicon glyphicon-check"></span> Unauthorized Pets<br />
+						<span class="glyphicon glyphicon-check"></span> All Charges Verified<br />
+						<span class="glyphicon glyphicon-check"></span> Regular Inspections<br />
+						<span class="glyphicon glyphicon-check"></span> Move-Out Inspections<br />
+						<span class="glyphicon glyphicon-check"></span> Evictions<br />
+						<span class="glyphicon glyphicon-check"></span> Neighbor Complaints<br />
 						</b>
 					</p>
 					

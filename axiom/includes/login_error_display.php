@@ -1,6 +1,8 @@
 
 <?php
 
+include("../config.php");
+include("../includes/header.php");
 	
 		echo '<div class="jumbotron" id="main">';
 
@@ -16,5 +18,6 @@
 		echo "\t" . '</div>';
 		echo '</div>';
 		
-		
+include("../includes/footer.php");
+	
 ?>

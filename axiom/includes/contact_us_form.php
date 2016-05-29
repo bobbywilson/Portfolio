@@ -1,5 +1,3 @@
-
-
 <div class="jumbotron" id="main">
 
 	<div class="container-fluid">
@@ -44,7 +42,7 @@
 						<hr>
 						
 						
-						<span class="small-text"><p class="text-justify" class="text-muted"><span class="glyphicon glyphicon-home"></span> <b><?php echo constant("BUSINESS_NAME") . "</b></br>" . constant("BUSINESS_ADDRESS") . "</br>" . constant("BUSINESS_HOURS")?></p>
+						<span class="small-text phone-numbers-col"><p class="text-justify" class="text-muted"><span class="glyphicon glyphicon-home"></span> <b><?php echo constant("BUSINESS_NAME") . "</b></br>" . constant("BUSINESS_ADDRESS") . "</br>" . constant("BUSINESS_HOURS")?></p>
    						
    						<hr>
    						
@@ -96,94 +94,11 @@
     							<div class="col-xs-12" id="col-xs">
       								<label class="control-label" for="email">Email<span class="required"> &bull;</span></label>
       							
-        							<input type="email" class="form-control" id="email" name="email" placeholder="i.e. john.smith@example.com" value="<?php echo$email?>" onfocus="emailError()" tabindex="3">
+        							<input type="email" class="form-control" id="email" name="email" placeholder="i.e. john.smith@example.com" value="<?php echo $email?>" onfocus="emailError()" tabindex="3">
       							</div>
     						</div>
     					
     					
-    						<div class="form-group">
-    							<div class="col-xs-3" id="col-xs">
-      								<label class="control-label" for="phone-number-label">Phone<span class="required"> &bull;</span></label>
-      							
-        							<input type="text" class="form-control" id="area_code" name="area_code" maxlength="3" placeholder="555" value="<?php echo$area_code?>" onfocus="phoneError()" tabindex="4"> 
-      							</div>
-    						</div>
-    						
-    						<div class="form-group">
-    							<div class="col-xs-1" id="col-xs">
-    								<label class="control-label" for="phone-prefix" id=phone-prefix-label>Prefix</label>
-      								<div id="phone-prefix-dash"><span class="glyphicon glyphicon-minus"></span> </div>
-      							</div>
-    						</div>
-    						
-    						<div class="form-group">
-    							<div class="col-xs-3" id="col-xs">
-      								<label class="control-label" for="phone-prefix-label" id=phone-prefix-label>Prefix</label>
-      							
-        							<input type="text" class="form-control" id="phone_prefix" name="phone_prefix" maxlength="3" placeholder="555" value="<?php echo $phone_prefix?>" onfocus="phoneError()" tabindex="5"> 
-      							</div>
-    						</div>
-    						
-    						<div class="form-group">
-    							<div class="col-xs-1" id="col-xs">
-    								<label class="control-label" for="phone-suffix-label" id=phone-suffix-label>Suffix</label>
-      								<div id="phone-suffix-dash"><span class="glyphicon glyphicon-minus"></span></div>
-      							</div>
-    						</div>
-    						
-    						<div class="form-group">
-    							<div class="col-xs-4" id="col-xs">
-      								<label class="control-label" for="phone-suffix" id="phone-suffix-label">Suffix</label>
-      							
-        							<input type="text" class="form-control" id="phone_suffix" name="phone_suffix" maxlength="4" placeholder="1234" value="<?php echo$phone_suffix?>" onfocus="phoneError()" tabindex="6"> 
-      							</div>
-    						</div>
-    						
-    						<div class="form-group">
-    							<div class="col-xs-12" id="col-xs">
-      								<label class="control-label" for="street">Street<span class="required"> &bull;</span></label>
-      							
-        							<input type="text" class="form-control" id="street" name="street" placeholder="i.e. 28A Manchester Street" value="<?php echo$street?>" onfocus="streetError()" onblur="return upper()" tabindex="7">
-      							</div>
-    						</div>
-    						
-    						
-    						
-    						<div class="form-group">
-    							<div class="col-xs-12" id="col-xs">
-      								<label class="control-label" for="city">City<span class="required"> &bull;</span></label>
-        							<input type="text" class="form-control" id="city" name="city" placeholder="i.e. Anytown" value="<?php echo$city?>" onfocus="cityError()" onblur="return upper()" tabindex="8">
-      							</div>
-    						</div>
-    						
-    						
-    						
-    						<div class="form-group">
-    							<div class="col-xs-6" id="col-xs">
-    								<label class="control-label" for="state">State<span class="required"> &bull;</span></label>
-    								
-    								<select class="form-control" id="state" name="state" value="<?php echo$state?>" onfocus="stateError()" tabindex="9">
-    									
-										<option selected>Choose a State</option>
-          								
-          								<?php states_list();?>
-          								
-      								</select>
-      								
-      								
-      								
-    							</div>
-    							
-    						</div>
-    						
-    						
-    						<div class="form-group">
-    							<div class="col-xs-6" id="col-xs">
-      								<label class="control-label" for="zip-code" id="zip-error">Zip Code<span class="required"> &bull;</span></label>
-        							<input type="text" class="form-control" id="zip_code" name="zip_code" maxlength="5" placeholder="i.e. 12345" value="<?php echo$zip_code?>" onfocus="zipCodeError()" tabindex="10">
-      							</div>
-    						</div>
-    						
     						
     						<div class="form-group">
     							<div class="col-xs-12" id="col-xs">
@@ -202,6 +117,7 @@
 							</div>
 							
   						</form>
+  						
   						
     			</div>
     			

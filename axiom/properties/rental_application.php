@@ -1,4 +1,3 @@
-
 <?php
 	
 	include("../config.php");
@@ -19,7 +18,7 @@
 
 		<div class="jumbotron" id="nested">
 		
-    		<h2>Complete a Rental Application <button type="button" id="button-top" class="btn btn-success btn-lg"><a href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>">Apply Now</a></button></h2> </br>
+    		<h2 class="mobile-center">Complete a Rental Application <button type="button" id="button-top" class="btn btn-success btn-lg"><a href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>">Apply Now</a></button></h2> </br>
     		    
    			<p class="text-justify" class="text-muted">Once you have selected the home you want it is necessary to apply to lease the home. Applications will be available for you to complete at the time of your showing. Applications may also be faxed to you or downloaded from this website.
 No one under 18 can apply as a party to a residential leasing agreement. Each adult that will reside in the home must complete his/her own application. To be considered an application must be completely filled out and have an original signature. Signatures on faxed copies are accepted with the original to be mailed to our office.  Our property managers are available <?php echo constant("BUSINESS_HOURS"); ?>. to answer questions and assist with the application process.</br></br>
@@ -38,7 +37,7 @@ Pets are often negotiable. Ask one of our property managers if pets are negotiab
 			Once the application is accepted the applicant must execute a residential leasing agreement within thirty days from the date of the application.  This can be done at the home, by mail or by fax.  If the application is accepted, and the applicant does not enter into a residential leasing agreement, the application deposit can be forfeited and the property placed back on the rental market.  If a residential lease agreement is not executed within the specified 30 day period and the applicant wishes to extend this period, there is a fee equal to one-half of a month's rent that must be paid to hold the home for an additional 15 days.
 If you would like to submit an application for one of our available properties please visit that property on the "Rentals" tab of this site.  If you have any questions, please contact us at <?php echo constant("BUSINESS_PHONE"); ?>.</br></br></p>
 
-<button type="button" id="button" class="btn btn-success btn-lg"><a href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>">Apply Now</a></button></br>
+<button type="button" id="button" class="btn btn-success btn-lg button-bottom"><a href="<?php echo ABSOLUTE_PATH . "properties/index.php"?>">Apply Now</a></button></br>
     
     	</div>
     

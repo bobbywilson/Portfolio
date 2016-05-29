@@ -1,10 +1,10 @@
-<h3>Your Credit Score</h3></br>
-<p class="text-justify" class="text-muted">It is important to know your credit status when considering the purchase of a house.  Most lenders use a credit score called “FICO” to determine your eligibility for a loan and the interest rate you should be charged.  FICO stands for Fair Isaac & Company, and credit scores are reported by each of the three major credit bureaus:  TRW (Experian), Equifax, and Trans-Union.  The score is computed differently by each bureau since they place a slightly different emphasis on component items.  Scores range from 365 to 840.</br></br>
+<h3>Your Credit Score</h3><br />
+<p class="text-justify text-muted">It is important to know your credit status when considering the purchase of a house.  Most lenders use a credit score called “FICO” to determine your eligibility for a loan and the interest rate you should be charged.  FICO stands for Fair Isaac & Company, and credit scores are reported by each of the three major credit bureaus:  TRW (Experian), Equifax, and Trans-Union.  The score is computed differently by each bureau since they place a slightly different emphasis on component items.  Scores range from 365 to 840.<br /><br />
 
 Lenders started to take a closer look at FICO scores in the early 1990s and this is what they found out.  The chart below shows the likelihood of a ninety-day delinquency for a specific FICO score.</p>
 
 
-</br>
+<br />
 
 			<div class="panel panel-default" id="panel-default-credit">
 
@@ -12,7 +12,7 @@ Lenders started to take a closer look at FICO scores in the early 1990s and this
 			
 				<div class="panel-body" id="table-panel">
 				
-				<p class="text-justify" class="text-muted">Likelihood of a 90 day delinquency for a specific FICO score</p>
+				<p class="text-justify text-muted">Likelihood of a 90 day delinquency for a specific FICO score</p>
 
 				</div>
 
@@ -84,49 +84,49 @@ Lenders started to take a closer look at FICO scores in the early 1990s and this
 		</div>
 
 
-</br>
+<br />
 
 
-<p class="text-justify" class="text-muted">What affects FICO scores? -- How do lenders look at them?
+<p class="text-justify text-muted">What affects FICO scores? -- How do lenders look at them?
 Some of the things that affect your FICO scores are:</p>
 
-<ul><li class="text-justify" class="text-muted">Delinquencies</li>
-<li class="text-justify" class="text-muted">Too many accounts opened within the last twelve months</li>
-<li class="text-justify" class="text-muted">Short credit history</li>
-<li class="text-justify" class="text-muted">Balances on revolving credit are near the maximum limits</li>
-<li class="text-justify" class="text-muted">Public records, such as tax liens, judgments, or bankruptcies</li>
-<li class="text-justify" class="text-muted">No recent credit card balances</li>
-<li class="text-justify" class="text-muted">Too many recent credit inquiries</li>
-<li class="text-justify" class="text-muted">Too few revolving accounts</li>
-<li class="text-justify" class="text-muted">Too many revolving accounts</li></ul></br>
+<ul><li class="text-justify text-muted">Delinquencies</li>
+<li class="text-justify text-muted">Too many accounts opened within the last twelve months</li>
+<li class="text-justify text-muted">Short credit history</li>
+<li class="text-justify text-muted">Balances on revolving credit are near the maximum limits</li>
+<li class="text-justify text-muted">Public records, such as tax liens, judgments, or bankruptcies</li>
+<li class="text-justify text-muted">No recent credit card balances</li>
+<li class="text-justify text-muted">Too many recent credit inquiries</li>
+<li class="text-justify text-muted">Too few revolving accounts</li>
+<li class="text-justify text-muted">Too many revolving accounts</li></ul><br />
 
-<p class="text-justify" class="text-muted">The credit score is actually calculated using a "scorecard" where you receive points for certain things. Creditors and lenders who view your credit report do not get to see the scorecard, so they do not know exactly 
-how your score was calculated.  They just see the final scores.</br></br>
+<p class="text-justify text-muted">The credit score is actually calculated using a "scorecard" where you receive points for certain things. Creditors and lenders who view your credit report do not get to see the scorecard, so they do not know exactly 
+how your score was calculated.  They just see the final scores.<br /><br />
 
 Basic guidelines on how to view the FICO scores vary a little from lender to lender.  Usually, a score above 680 will require a very basic review of the entire loan package.  Scores between 640 and 680 require more thorough underwriting.  Once a score gets below 640, an underwriter will look at a loan application with a more cautious approach.  Many lenders will not even consider a loan with a FICO score below 600, some as high as 620.</p>
 
 <h3>FICO scores and interest rates</h3>
-<p class="text-justify" class="text-muted">Credit scores can affect more than whether your loan gets approved or not.  They can also affect how much you pay for your loan, too.  Some lenders establish a "base price" and will reduce the points on a loan if the credit score is above a certain level.  For example, one major national lender reduces the cost of a loan by a quarter point if the FICO score is greater than 725.  If it is between 700 and 724, they will reduce the cost by one-eighth of a point.  A point is equal to one percent of the loan amount.  There are other lenders who do it in reverse.  They establish their base price, but instead of reducing the cost for good FICO scores, they "add on" costs for lower FICO scores.  The results from either method would work out to be approximately the same interest rate.  It is just that the second way "looks" better when you are quoting interest rates on a rate sheet or in an advertisement.</br></br>
+<p class="text-justify text-muted">Credit scores can affect more than whether your loan gets approved or not.  They can also affect how much you pay for your loan, too.  Some lenders establish a "base price" and will reduce the points on a loan if the credit score is above a certain level.  For example, one major national lender reduces the cost of a loan by a quarter point if the FICO score is greater than 725.  If it is between 700 and 724, they will reduce the cost by one-eighth of a point.  A point is equal to one percent of the loan amount.  There are other lenders who do it in reverse.  They establish their base price, but instead of reducing the cost for good FICO scores, they "add on" costs for lower FICO scores.  The results from either method would work out to be approximately the same interest rate.  It is just that the second way "looks" better when you are quoting interest rates on a rate sheet or in an advertisement.<br /><br />
 
-Factors other than FICO scores affect underwriting decisions.  Some examples of compensating factors that will make an underwriter more lenient toward lower FICO scores can be a larger down payment, low debt-to-income ratios, an excellent history of saving money, and others.  There also may be a reasonable explanation for items on the credit history that negatively impact your credit score.</br></br>
+Factors other than FICO scores affect underwriting decisions.  Some examples of compensating factors that will make an underwriter more lenient toward lower FICO scores can be a larger down payment, low debt-to-income ratios, an excellent history of saving money, and others.  There also may be a reasonable explanation for items on the credit history that negatively impact your credit score.<br /><br />
 They don't always make sense.  Even so, sometimes credit scores do not seem to make any sense at all. One borrower with a completely flawless credit history had a FICO score below 600.  One borrower with a foreclosure on her credit report had a FICO above 780.</p>
 
 <h3>Portfolio & sub-prime lenders</h3>
-<p class="text-justify" class="text-muted">Finally, there are a few "portfolio" lenders who do not even look at credit scoring, at least on their portfolio loans.  A portfolio lender is usually a savings and loan institution who originates some adjustable rate mortgages that they intend to keep in their own portfolio instead of selling them in the secondary mortgage market.  They may look at home loans differently.  Some concentrate on the value of the home.  Some may concentrate more on the savings history of the borrower.  There are also "sub-prime" lenders, or "B & C paper" lenders, who will provide a home loan, but at a higher interest rate and cost.</br></br>
+<p class="text-justify text-muted">Finally, there are a few "portfolio" lenders who do not even look at credit scoring, at least on their portfolio loans.  A portfolio lender is usually a savings and loan institution who originates some adjustable rate mortgages that they intend to keep in their own portfolio instead of selling them in the secondary mortgage market.  They may look at home loans differently.  Some concentrate on the value of the home.  Some may concentrate more on the savings history of the borrower.  There are also "sub-prime" lenders, or "B & C paper" lenders, who will provide a home loan, but at a higher interest rate and cost.<br /><br />
 
-Numerous credit reports can effect your FICO score.  Wait until you have a reasonable expectation that you will use a lender before you let them run your credit report.  Not only will you have to explain any credit inquiries in the last ninety days, but also numerous inquiries will lower your FICO score by a small amount.  This may not matter if your FICO is 780, but it would matter to you if it is 642.  Don't buy a car just before looking for a home!</br></br>
+Numerous credit reports can effect your FICO score.  Wait until you have a reasonable expectation that you will use a lender before you let them run your credit report.  Not only will you have to explain any credit inquiries in the last ninety days, but also numerous inquiries will lower your FICO score by a small amount.  This may not matter if your FICO is 780, but it would matter to you if it is 642.  Don't buy a car just before looking for a home!<br /><br />
 
 When people begin to think about the possibility of buying a home, they often think about buying other big-ticket items, such as cars.  Quite often when someone asks a lender to pre-qualify them for a home loan there is a brand new car payment on the credit report.  Often, they would have qualified in their anticipated price range except that the new car payment has raised their debt-to-income ratio, lowering their maximum purchase price.</p>
 
 <h3>In Conclusion</h3>
-<p class="text-justify" class="text-muted">Your credit history is important and credit scores are important if you want to get the best interest rate available. Protect your FICO score.</p>
+<p class="text-justify text-muted">Your credit history is important and credit scores are important if you want to get the best interest rate available. Protect your FICO score.</p>
 
 <ul>
-<li class="text-justify" class="text-muted">Do not open new revolving accounts needlessly.</li>
-<li class="text-justify" class="text-muted">Do not fill out credit applications needlessly.</li>
-<li class="text-justify" class="text-muted">Do not keep your credit cards nearly maxed out.</li>
-<li class="text-justify" class="text-muted">Make sure you do use your credit occasionally.</li>
-<li class="text-justify" class="text-muted">Always make sure every creditor has their payment in their office no later than 29 days past due.</li>
-<li class="text-justify" class="text-muted">Never, ever be more than thirty days late on your mortgage--ever.</li>
+<li class="text-justify text-muted">Do not open new revolving accounts needlessly.</li>
+<li class="text-justify text-muted">Do not fill out credit applications needlessly.</li>
+<li class="text-justify text-muted">Do not keep your credit cards nearly maxed out.</li>
+<li class="text-justify text-muted">Make sure you do use your credit occasionally.</li>
+<li class="text-justify text-muted">Always make sure every creditor has their payment in their office no later than 29 days past due.</li>
+<li class="text-justify text-muted">Never, ever be more than thirty days late on your mortgage--ever.</li>
 </ul>
 

@@ -128,6 +128,34 @@
 				
 				
 			}
+			
+			
+			public function delete_property($property_id) {
+		
+		
+			try {
+				
+			$sql = "DELETE FROM property WHERE property_id='$property_id'";
+			
+				$result = $this->conn->query($sql);
+				
+				return $result;	
+				
+			}
+			
+			// Catch Errors
+			
+			catch (PDOException $error) {
+				
+				echo "Unable to delete record(s): " . $error->getMessage();
+					
+				exit();
+					
+			}
+		
+				$this->conn = $conn;		
+			
+		}
 	
 	
 	}
