@@ -1,8 +1,8 @@
 <?php
 
-define("URL_ROOT", "http://www.bobbywwilson.com/", false);
+define("URL_ROOT", "http://localhost:63342/Portfolio/", false);
 
-define("ABSOLUTE_PATH", "http://www.bobbywwilson.com/", false);
+define("ABSOLUTE_PATH", "http://localhost:63342/Portfolio/", false);
 
 define("NAME", "Bobby Wilson", false);
 
