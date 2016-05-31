@@ -2,13 +2,13 @@
 
 	// Database Class
 
-	class Database {
+class Database {
 	
 	
 		private $host 	  = "localhost";
-		private $database = "AxiomProperty";
-		private $user     = "bobbywilson";
-		private $password = "#28aDorset";
+		private $database = "axiom";
+		private $user     = "root";
+		private $password = "only1God!";
 		
 		public $conn="";
 	

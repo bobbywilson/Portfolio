@@ -1,8 +1,8 @@
 <?php
 
 	
-	define("URL_ROOT", "http://bobbywwilson.com/axiom/", false);
-	define("ABSOLUTE_PATH", "http://bobbywwilson.com/axiom/", false);
+	define("URL_ROOT", "http://localhost:63342/Portfolio/axiom/", false);
+	define("ABSOLUTE_PATH", "http://localhost:63342/Portfolio/axiom/", false);
 	define("BUSINESS_NAME", "Axiom Property Management LLC", false);
 	define("BUSINESS_ADDRESS", "<span class='glyphicon glyphicon-map-marker'></span> 2453 N Delaware, Indianapolis, IN 46205", false);
 	define("BUSINESS_HOURS", "<span class='glyphicon glyphicon-time'></span> Monday through Friday, 9:00 AM to 5:00 PM", false);
