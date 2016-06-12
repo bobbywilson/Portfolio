@@ -8,7 +8,7 @@
 		private $host 	  = "localhost";
 		private $database = "portfolio";
 		private $user     = "root";
-		private $password = "only1God!";
+		private $password = "**********";
 
 		public $conn="";
 
