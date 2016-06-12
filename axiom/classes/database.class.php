@@ -8,7 +8,7 @@ class Database {
 		private $host 	  = "localhost";
 		private $database = "axiom";
 		private $user     = "root";
-		private $password = "only1God!";
+		private $password = "**********";
 		
 		public $conn="";
 	
